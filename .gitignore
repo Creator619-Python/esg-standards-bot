@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+google_key.json
+*.key
+*.pem
+*.p12
+
+# Data files (except samples)
+data/ESRS_MASTER.json
+data/GRI_MASTER.json
+data/SASB_Master.json
+data/ISO_ALL_STANDARDS.json
+data/BRSR_MASTER.json
+
+# Logs
+*.log
+logs/
