@@ -1,0 +1,1909 @@
+{
+  "SASB_Standards": [
+    {
+      "Industry": "Apparel, Accessories & Footwear",
+      "Sector": "Consumer Goods",
+      "Disclosure_Topics": [
+        "Environmental Impacts in the Supply Chain",
+        "Chemical Management",
+        "Product Quality & Safety",
+        "Labor Conditions in the Supply Chain"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Percentage of raw materials from sustainable sources",
+          "Code": "CG-AA-410a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Weight of chemicals used in production",
+          "Code": "CG-AA-250a.1",
+          "Unit": "kg"
+        },
+        {
+          "Metric": "Number of product safety recalls",
+          "Code": "CG-AA-250b.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Percentage of Tier-1 suppliers audited",
+          "Code": "CG-AA-430a.2",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Number of units produced",
+          "Code": "CG-AA-000.A",
+          "Unit": "Units"
+        },
+        {
+          "Metric": "Weight of materials processed",
+          "Code": "CG-AA-000.B",
+          "Unit": "Metric tons"
+        }
+      ],
+      "Technical_Protocols": [
+        "Supplier audit protocols aligned with WRAP / FLA.",
+        "Chemical disclosure aligned with ZDHC MRSL."
+      ],
+      "Context": "Apparel industry has high supply-chain and labor ESG exposure.",
+      "Crosswalks": {
+        "GRI": [
+          "GRI 301",
+          "GRI 305",
+          "GRI 414",
+          "GRI 403"
+        ],
+        "ESRS": [
+          "E1",
+          "E3",
+          "E5",
+          "S2"
+        ],
+        "BRSR": [
+          "P3",
+          "P5",
+          "P6"
+        ],
+        "UN_SDGs": [
+          "SDG 6",
+          "SDG 8",
+          "SDG 12",
+          "SDG 13"
+        ]
+      }
+    },
+    {
+      "Industry": "Oil & Gas \u2013 Exploration & Production",
+      "Sector": "Extractives & Minerals Processing",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "Water Management",
+        "Spills",
+        "Hydraulic Fracturing",
+        "Reserves & Transition Risk",
+        "Worker Safety",
+        "Community Rights"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Scope 1 emissions",
+          "Code": "EM-EP-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "Flaring volume",
+          "Code": "EM-EP-110a.2",
+          "Unit": "m\u00b3"
+        },
+        {
+          "Metric": "Water withdrawal",
+          "Code": "EM-EP-140a.1",
+          "Unit": "m\u00b3"
+        },
+        {
+          "Metric": "Spill incidents",
+          "Code": "EM-EP-160a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "BOE produced",
+          "Code": "EM-EP-000.A",
+          "Unit": "BOE"
+        }
+      ]
+    },
+    {
+      "Industry": "Oil & Gas \u2013 Midstream",
+      "Sector": "Extractives & Minerals Processing",
+      "Disclosure_Topics": [
+        "Methane Leaks",
+        "Pipeline Integrity",
+        "GHG Emissions",
+        "Community Rights",
+        "Emergency Preparedness"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Methane leak rate",
+          "Code": "EM-MD-110a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Pipeline incidents",
+          "Code": "EM-MD-540a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Pipeline kilometers",
+          "Code": "EM-MD-000.A",
+          "Unit": "km"
+        }
+      ]
+    },
+    {
+      "Industry": "Oil & Gas \u2013 Refining & Marketing",
+      "Sector": "Extractives & Minerals Processing",
+      "Disclosure_Topics": [
+        "Air Emissions",
+        "GHG Emissions",
+        "Energy Efficiency",
+        "Process Safety",
+        "Product Quality",
+        "Community Impact"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "SOx/NOx/VOC emissions",
+          "Code": "EM-RM-110a.1",
+          "Unit": "t"
+        },
+        {
+          "Metric": "Energy intensity",
+          "Code": "EM-RM-130a.1",
+          "Unit": "GJ/t"
+        },
+        {
+          "Metric": "Safety incidents",
+          "Code": "EM-RM-320a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Throughput",
+          "Code": "EM-RM-000.A",
+          "Unit": "barrels/day"
+        }
+      ]
+    },
+    {
+      "Industry": "Coal Operations",
+      "Sector": "Extractives & Minerals Processing",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "Air Quality",
+        "Water Contamination",
+        "Land Rehabilitation",
+        "Worker Safety",
+        "Community Impact"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "CO2 & methane emissions",
+          "Code": "EM-CO-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "AMD discharge",
+          "Code": "EM-CO-140a.1",
+          "Unit": "m\u00b3"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Coal production",
+          "Code": "EM-CO-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Metals & Mining",
+      "Sector": "Extractives & Minerals Processing",
+      "Disclosure_Topics": [
+        "Water Management",
+        "Tailings Safety",
+        "Biodiversity",
+        "GHG Emissions",
+        "Worker Safety",
+        "Community Rights"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Water withdrawal",
+          "Code": "EM-MM-140a.1",
+          "Unit": "m\u00b3"
+        },
+        {
+          "Metric": "Tailings incidents",
+          "Code": "EM-MM-160a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Scope 1 & 2 emissions",
+          "Code": "EM-MM-110a.1",
+          "Unit": "tCO2e"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Ore processed",
+          "Code": "EM-MM-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Construction Materials",
+      "Sector": "Extractives & Minerals Processing",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "Energy Use",
+        "Air Quality",
+        "Water Use",
+        "Circularity",
+        "Worker Safety"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Process CO2 emissions",
+          "Code": "EM-CM-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "Energy intensity",
+          "Code": "EM-CM-130a.1",
+          "Unit": "GJ/t"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Production volume",
+          "Code": "EM-CM-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Agricultural Products",
+      "Sector": "Food & Beverage",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "Water Management",
+        "Soil Health",
+        "Supply Chain Traceability",
+        "Labor Conditions",
+        "Biodiversity Impact"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Scope 1 emissions",
+          "Code": "FB-AG-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "Water withdrawn",
+          "Code": "FB-AG-140a.1",
+          "Unit": "m\u00b3"
+        },
+        {
+          "Metric": "Percentage of certified sustainable crops",
+          "Code": "FB-AG-430a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Crop volume produced",
+          "Code": "FB-AG-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Alcoholic Beverages",
+      "Sector": "Food & Beverage",
+      "Disclosure_Topics": [
+        "Energy & Water Use",
+        "Packaging Circularity",
+        "Responsible Marketing",
+        "Alcohol-Related Harm",
+        "Supply Chain Impacts"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Energy intensity",
+          "Code": "FB-AB-130a.1",
+          "Unit": "GJ/hl"
+        },
+        {
+          "Metric": "Water intensity",
+          "Code": "FB-AB-140a.1",
+          "Unit": "m\u00b3/hl"
+        },
+        {
+          "Metric": "Percentage recycled packaging",
+          "Code": "FB-AB-410a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Production volume",
+          "Code": "FB-AB-000.A",
+          "Unit": "hl"
+        }
+      ]
+    },
+    {
+      "Industry": "Non-Alcoholic Beverages",
+      "Sector": "Food & Beverage",
+      "Disclosure_Topics": [
+        "Water Stewardship",
+        "Packaging Waste",
+        "Health & Nutrition",
+        "Supply Chain Sourcing",
+        "Energy Use",
+        "Community Impact"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Water withdrawal",
+          "Code": "FB-NB-140a.1",
+          "Unit": "m\u00b3"
+        },
+        {
+          "Metric": "Recycled packaging rate",
+          "Code": "FB-NB-410a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Sugar reduction initiatives",
+          "Code": "FB-NB-260a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Liters produced",
+          "Code": "FB-NB-000.A",
+          "Unit": "L"
+        }
+      ]
+    },
+    {
+      "Industry": "Food Retailers & Distributors",
+      "Sector": "Food & Beverage",
+      "Disclosure_Topics": [
+        "Food Waste",
+        "Energy Use in Refrigeration",
+        "Supply Chain Labor",
+        "Animal Welfare",
+        "Health & Safety"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Food waste generated",
+          "Code": "FB-FR-150a.1",
+          "Unit": "t"
+        },
+        {
+          "Metric": "Energy used in stores",
+          "Code": "FB-FR-130a.1",
+          "Unit": "GJ"
+        },
+        {
+          "Metric": "Safe handling incidents",
+          "Code": "FB-FR-250a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Number of retail locations",
+          "Code": "FB-FR-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Meat, Poultry & Dairy",
+      "Sector": "Food & Beverage",
+      "Disclosure_Topics": [
+        "GHG (Methane)",
+        "Water Consumption",
+        "Animal Welfare",
+        "Antibiotic Use",
+        "Food Safety",
+        "Supply Chain Labor"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Methane emissions",
+          "Code": "FB-MP-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "Antibiotic use rate",
+          "Code": "FB-MP-260a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Animal welfare audit pass rate",
+          "Code": "FB-MP-410a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Livestock processed",
+          "Code": "FB-MP-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Processed Foods",
+      "Sector": "Food & Beverage",
+      "Disclosure_Topics": [
+        "Health & Nutrition",
+        "Packaging Circularity",
+        "Energy Use",
+        "Water Use",
+        "Supply Chain Traceability",
+        "Marketing Ethics"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Percentage of healthy product portfolio",
+          "Code": "FB-PF-260a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Water intensity",
+          "Code": "FB-PF-140a.1",
+          "Unit": "m\u00b3/t"
+        },
+        {
+          "Metric": "Energy intensity",
+          "Code": "FB-PF-130a.1",
+          "Unit": "GJ/t"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Total production",
+          "Code": "FB-PF-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Biotechnology & Pharmaceuticals",
+      "Sector": "Health Care",
+      "Disclosure_Topics": [
+        "Drug Safety & Side Effects",
+        "Clinical Trial Transparency",
+        "Supply Chain Quality",
+        "Ethical Marketing",
+        "Access to Medicines",
+        "Waste & Hazardous Materials"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Number of product recalls",
+          "Code": "HC-BP-250a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Percentage of clinical trials disclosed",
+          "Code": "HC-BP-270a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Fines for unethical marketing",
+          "Code": "HC-BP-510a.1",
+          "Unit": "USD"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Number of drugs on market",
+          "Code": "HC-BP-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Health Care Delivery",
+      "Sector": "Health Care",
+      "Disclosure_Topics": [
+        "Patient Safety",
+        "Infection Control",
+        "Data Privacy",
+        "Access & Affordability",
+        "Employee Health & Safety",
+        "Waste & Hazardous Disposal"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Hospital-acquired infection rate",
+          "Code": "HC-DY-250a.1",
+          "Unit": "Rate"
+        },
+        {
+          "Metric": "Number of privacy breaches",
+          "Code": "HC-DY-230a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Medical waste volume",
+          "Code": "HC-DY-150a.1",
+          "Unit": "t"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Patients served",
+          "Code": "HC-DY-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Health Care Distributors",
+      "Sector": "Health Care",
+      "Disclosure_Topics": [
+        "Supply Chain Quality",
+        "Product Authenticity",
+        "Distribution Safety",
+        "Employee Labor Practices",
+        "Waste Management"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Counterfeit incidents detected",
+          "Code": "HC-DD-260a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Fleet safety incidents",
+          "Code": "HC-DD-320a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Units distributed",
+          "Code": "HC-DD-000.A",
+          "Unit": "Units"
+        }
+      ]
+    },
+    {
+      "Industry": "Managed Care",
+      "Sector": "Health Care",
+      "Disclosure_Topics": [
+        "Access to Preventive Care",
+        "Claims Management Transparency",
+        "Data Security",
+        "Employee Safety",
+        "Ethical Business Conduct"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Percentage of preventive care claims",
+          "Code": "HC-MC-270a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Privacy breach incidents",
+          "Code": "HC-MC-230a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Customer complaint rate",
+          "Code": "HC-MC-000.B",
+          "Unit": "Rate"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Covered lives",
+          "Code": "HC-MC-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Electric Utilities & Power Generators",
+      "Sector": "Infrastructure",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "Air Quality",
+        "Grid Reliability",
+        "Water Use in Generation",
+        "Coal & Fuel Transition Risk",
+        "Worker Safety"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Scope 1 emissions",
+          "Code": "IF-EU-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "SOx/NOx emissions",
+          "Code": "IF-EU-120a.1",
+          "Unit": "t"
+        },
+        {
+          "Metric": "Grid outage duration",
+          "Code": "IF-EU-550a.1",
+          "Unit": "Minutes"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Electricity generated",
+          "Code": "IF-EU-000.A",
+          "Unit": "MWh"
+        }
+      ]
+    },
+    {
+      "Industry": "Engineering & Construction Services",
+      "Sector": "Infrastructure",
+      "Disclosure_Topics": [
+        "Labor Safety",
+        "Project Environmental Impacts",
+        "Supply Chain Labor",
+        "Corruption & Bribery",
+        "Materials Efficiency"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Recordable incident rate",
+          "Code": "IF-EN-320a.1",
+          "Unit": "Rate"
+        },
+        {
+          "Metric": "Corruption violations",
+          "Code": "IF-EN-510a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Project pipeline value",
+          "Code": "IF-EN-000.A",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "Industry": "Gas Utilities & Distributors",
+      "Sector": "Infrastructure",
+      "Disclosure_Topics": [
+        "Methane Leaks",
+        "Pipeline Integrity",
+        "Worker Safety",
+        "Emergency Preparedness",
+        "Customer Affordability"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Methane leak rate",
+          "Code": "IF-GU-110a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Pipeline incidents",
+          "Code": "IF-GU-540a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Pipeline length",
+          "Code": "IF-GU-000.A",
+          "Unit": "km"
+        }
+      ]
+    },
+    {
+      "Industry": "Real Estate",
+      "Sector": "Infrastructure",
+      "Disclosure_Topics": [
+        "Energy Efficiency of Buildings",
+        "GHG Emissions",
+        "Tenant Health & Safety",
+        "Water Efficiency",
+        "Building Certifications"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Energy intensity",
+          "Code": "IF-RE-130a.1",
+          "Unit": "kWh/m\u00b2"
+        },
+        {
+          "Metric": "Percentage green certified assets",
+          "Code": "IF-RE-410a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Total floor area",
+          "Code": "IF-RE-000.A",
+          "Unit": "m\u00b2"
+        }
+      ]
+    },
+    {
+      "Industry": "Waste Management",
+      "Sector": "Infrastructure",
+      "Disclosure_Topics": [
+        "Landfill Emissions",
+        "Recycling Rates",
+        "Worker Safety",
+        "Hazardous Waste Handling",
+        "Community Odor & Pollution Impact"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Landfill methane emissions",
+          "Code": "IF-WM-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "Recycling rate",
+          "Code": "IF-WM-150a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Waste processed",
+          "Code": "IF-WM-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Biofuels",
+      "Sector": "Renewable Resources & Alternative Energy",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "Feedstock Sustainability",
+        "Water Use",
+        "Land Use & Biodiversity",
+        "Air Quality",
+        "Community Impact"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Lifecycle GHG intensity",
+          "Code": "RR-BF-110a.1",
+          "Unit": "gCO2e/MJ"
+        },
+        {
+          "Metric": "Certified sustainable feedstock",
+          "Code": "RR-BF-430a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Water withdrawn",
+          "Code": "RR-BF-140a.1",
+          "Unit": "m\u00b3"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Biofuel production volume",
+          "Code": "RR-BF-000.A",
+          "Unit": "L"
+        }
+      ]
+    },
+    {
+      "Industry": "Forestry & Paper",
+      "Sector": "Renewable Resources & Alternative Energy",
+      "Disclosure_Topics": [
+        "Forest Management & Certification",
+        "Biodiversity Protection",
+        "Water Consumption",
+        "GHG Emissions",
+        "Labor Conditions",
+        "Supply Chain Traceability"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Certified forest area",
+          "Code": "RR-FP-430a.1",
+          "Unit": "ha"
+        },
+        {
+          "Metric": "Water intensity",
+          "Code": "RR-FP-140a.1",
+          "Unit": "m\u00b3/t"
+        },
+        {
+          "Metric": "GHG emissions",
+          "Code": "RR-FP-110a.1",
+          "Unit": "tCO2e"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Timber harvested",
+          "Code": "RR-FP-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Fuel Cells & Hydrogen",
+      "Sector": "Renewable Resources & Alternative Energy",
+      "Disclosure_Topics": [
+        "Energy Efficiency",
+        "GHG Emissions (Hydrogen Production)",
+        "Water Use",
+        "Safety & Explosion Risk",
+        "Supply Chain Materials"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Electrolyzer efficiency",
+          "Code": "RR-H2-130a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "GHG per kg hydrogen",
+          "Code": "RR-H2-110a.1",
+          "Unit": "kgCO2e/kg"
+        },
+        {
+          "Metric": "Water consumption",
+          "Code": "RR-H2-140a.1",
+          "Unit": "L/kg"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Hydrogen produced",
+          "Code": "RR-H2-000.A",
+          "Unit": "kg"
+        }
+      ]
+    },
+    {
+      "Industry": "Solar Technology & Project Development",
+      "Sector": "Renewable Resources & Alternative Energy",
+      "Disclosure_Topics": [
+        "GHG Emissions in Manufacturing",
+        "Energy Efficiency of Panels",
+        "Recycling of Panels",
+        "Supply Chain Labor",
+        "Land Use Impact"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Energy payback time",
+          "Code": "RR-ST-130a.1",
+          "Unit": "Years"
+        },
+        {
+          "Metric": "Panel recycling rate",
+          "Code": "RR-ST-410a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Scope 1 & 2 emissions",
+          "Code": "RR-ST-110a.1",
+          "Unit": "tCO2e"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Solar capacity installed",
+          "Code": "RR-ST-000.A",
+          "Unit": "MW"
+        }
+      ]
+    },
+    {
+      "Industry": "Wind Technology & Project Development",
+      "Sector": "Renewable Resources & Alternative Energy",
+      "Disclosure_Topics": [
+        "GHG Emissions in Manufacturing",
+        "Turbine Recycling",
+        "Bird & Bat Mortality",
+        "Noise & Community Impact",
+        "Supply Chain Materials"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Lifecycle GHG emissions",
+          "Code": "RR-WD-110a.1",
+          "Unit": "gCO2e/kWh"
+        },
+        {
+          "Metric": "Blade recycling percentage",
+          "Code": "RR-WD-410a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Wildlife impact incidents",
+          "Code": "RR-WD-150a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Wind capacity installed",
+          "Code": "RR-WD-000.A",
+          "Unit": "MW"
+        }
+      ]
+    },
+    {
+      "Industry": "Chemicals",
+      "Sector": "Resource Transformation",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "Hazardous Air Pollutants",
+        "Water Pollution",
+        "Product Safety & Toxicity",
+        "Waste & Hazardous Disposal",
+        "Process Safety Management"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Scope 1 emissions",
+          "Code": "RT-CH-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "HAP emissions",
+          "Code": "RT-CH-120a.1",
+          "Unit": "t"
+        },
+        {
+          "Metric": "Process safety events",
+          "Code": "RT-CH-320a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Production volume",
+          "Code": "RT-CH-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Containers & Packaging",
+      "Sector": "Resource Transformation",
+      "Disclosure_Topics": [
+        "Recycled Content",
+        "GHG Emissions",
+        "Energy Use",
+        "Waste Reduction",
+        "Supply Chain Labor",
+        "Product End-of-Life Management"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Recycled content rate",
+          "Code": "RT-CP-410a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Energy intensity",
+          "Code": "RT-CP-130a.1",
+          "Unit": "GJ/t"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Packaging produced",
+          "Code": "RT-CP-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Industrial Machinery & Goods",
+      "Sector": "Resource Transformation",
+      "Disclosure_Topics": [
+        "Energy Efficiency of Products",
+        "Supply Chain Labor",
+        "Product Safety",
+        "GHG Emissions",
+        "Materials Efficiency"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Energy efficiency improvements",
+          "Code": "RT-IM-410a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Safety incidents",
+          "Code": "RT-IM-250a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Units produced",
+          "Code": "RT-IM-000.A",
+          "Unit": "Units"
+        }
+      ]
+    },
+    {
+      "Industry": "Metals & Mining (Processing)",
+      "Sector": "Resource Transformation",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "Energy Use",
+        "Water Management",
+        "Circularity & Scrap Recycling",
+        "Air Quality",
+        "Worker Safety"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Scope 1 & 2 emissions",
+          "Code": "RT-MM-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "Water withdrawn",
+          "Code": "RT-MM-140a.1",
+          "Unit": "m\u00b3"
+        },
+        {
+          "Metric": "Recycled scrap rate",
+          "Code": "RT-MM-410a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Metal processed",
+          "Code": "RT-MM-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Paper & Pulp Products",
+      "Sector": "Resource Transformation",
+      "Disclosure_Topics": [
+        "Water Consumption",
+        "Deforestation Risk",
+        "GHG Emissions",
+        "Chemical Use",
+        "Wastewater Discharge",
+        "Fiber Sourcing"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Water intensity",
+          "Code": "RT-PP-140a.1",
+          "Unit": "m\u00b3/t"
+        },
+        {
+          "Metric": "Certified sustainable fiber",
+          "Code": "RT-PP-430a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Paper production",
+          "Code": "RT-PP-000.A",
+          "Unit": "t"
+        }
+      ]
+    },
+    {
+      "Industry": "Education",
+      "Sector": "Services",
+      "Disclosure_Topics": [
+        "Student Safety",
+        "Data Privacy",
+        "Education Outcomes",
+        "Faculty Diversity",
+        "Affordability"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Data breaches",
+          "Code": "SV-ED-270a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Graduation rate",
+          "Code": "SV-ED-330a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Student enrollment",
+          "Code": "SV-ED-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Hotels & Lodging",
+      "Sector": "Services",
+      "Disclosure_Topics": [
+        "Energy & Water Use",
+        "Human Trafficking Prevention",
+        "Labor Practices",
+        "Guest Safety",
+        "Waste Management"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Energy per occupied room",
+          "Code": "SV-HL-130a.1",
+          "Unit": "kWh"
+        },
+        {
+          "Metric": "Water per occupied room",
+          "Code": "SV-HL-140a.1",
+          "Unit": "L"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Room nights available",
+          "Code": "SV-HL-000.A",
+          "Unit": "Room-nights"
+        }
+      ]
+    },
+    {
+      "Industry": "Leisure & Recreation",
+      "Sector": "Services",
+      "Disclosure_Topics": [
+        "Customer Safety",
+        "Energy Use",
+        "Water Use",
+        "Labor Safety",
+        "Accessibility"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Customer injury rate",
+          "Code": "SV-LR-250a.1",
+          "Unit": "Rate"
+        },
+        {
+          "Metric": "Energy per visitor",
+          "Code": "SV-LR-130a.1",
+          "Unit": "kWh/visitor"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Visitors",
+          "Code": "SV-LR-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Media & Entertainment",
+      "Sector": "Services",
+      "Disclosure_Topics": [
+        "Responsible Content",
+        "Data Privacy",
+        "Advertising Ethics",
+        "Diversity",
+        "Misinformation"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Privacy breaches",
+          "Code": "SV-ME-270a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Diverse representation",
+          "Code": "SV-ME-410a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Content hours produced",
+          "Code": "SV-ME-000.A",
+          "Unit": "Hours"
+        }
+      ]
+    },
+    {
+      "Industry": "Professional & Commercial Services",
+      "Sector": "Services",
+      "Disclosure_Topics": [
+        "Data Privacy",
+        "Ethics & Corruption",
+        "Employee Well-being",
+        "Client Impact",
+        "Cybersecurity"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Confidentiality breaches",
+          "Code": "SV-PS-270a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Corruption incidents",
+          "Code": "SV-PS-510a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Client engagements",
+          "Code": "SV-PS-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Restaurants",
+      "Sector": "Services",
+      "Disclosure_Topics": [
+        "Food Safety",
+        "Labor Practices",
+        "Nutrition Transparency",
+        "Waste & Food Waste",
+        "Energy & Water Use"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Food safety incidents",
+          "Code": "SV-RS-250a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Food waste generated",
+          "Code": "SV-RS-150a.1",
+          "Unit": "kg"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Meals served",
+          "Code": "SV-RS-000.A",
+          "Unit": "Units"
+        }
+      ]
+    },
+    {
+      "Industry": "Casinos & Gaming",
+      "Sector": "Services",
+      "Disclosure_Topics": [
+        "Responsible Gaming",
+        "AML Compliance",
+        "Customer Safety",
+        "Energy Use",
+        "Labor Safety",
+        "Data Privacy"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "AML violations",
+          "Code": "SV-CG-270a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Responsible gaming training rate",
+          "Code": "SV-CG-410a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Gaming customers",
+          "Code": "SV-CG-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Hardware",
+      "Sector": "Technology & Communications",
+      "Disclosure_Topics": [
+        "Energy Efficiency",
+        "Supply Chain Labor",
+        "Hazardous Materials",
+        "E-waste",
+        "Data Security"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "ENERGY STAR compliant products",
+          "Code": "TC-HW-410a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "E-waste collected",
+          "Code": "TC-HW-000.B",
+          "Unit": "t"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Units shipped",
+          "Code": "TC-HW-000.A",
+          "Unit": "Units"
+        }
+      ]
+    },
+    {
+      "Industry": "Semiconductors",
+      "Sector": "Technology & Communications",
+      "Disclosure_Topics": [
+        "Energy Use",
+        "Water Use",
+        "Chemical Use",
+        "Conflict Minerals",
+        "Supply Chain Traceability"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Energy per wafer",
+          "Code": "TC-SC-130a.1",
+          "Unit": "kWh"
+        },
+        {
+          "Metric": "Water per wafer",
+          "Code": "TC-SC-140a.1",
+          "Unit": "L"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Wafers shipped",
+          "Code": "TC-SC-000.A",
+          "Unit": "Units"
+        }
+      ]
+    },
+    {
+      "Industry": "IT Services",
+      "Sector": "Technology & Communications",
+      "Disclosure_Topics": [
+        "Data Privacy",
+        "Cybersecurity",
+        "Data Center Energy",
+        "Workforce Management",
+        "AI Ethics"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Data breaches",
+          "Code": "TC-IT-230a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Data center PUE",
+          "Code": "TC-IT-130a.1",
+          "Unit": "PUE"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Number of data centers",
+          "Code": "TC-IT-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Software",
+      "Sector": "Technology & Communications",
+      "Disclosure_Topics": [
+        "Data Privacy",
+        "AI Safety",
+        "Digital Wellbeing",
+        "Open Source Security",
+        "Ethical Product Design"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Privacy breaches",
+          "Code": "TC-SW-230a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Security vulnerabilities disclosed",
+          "Code": "TC-SW-000.B",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Active users",
+          "Code": "TC-SW-000.A",
+          "Unit": "Users"
+        }
+      ]
+    },
+    {
+      "Industry": "Internet Media & Services",
+      "Sector": "Technology & Communications",
+      "Disclosure_Topics": [
+        "Content Moderation",
+        "User Safety",
+        "Misinformation",
+        "Advertising Integrity",
+        "Data Monetization"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Regulatory violations (content)",
+          "Code": "TC-IM-270a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Human moderation percentage",
+          "Code": "TC-IM-410a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Monthly active users",
+          "Code": "TC-IM-000.A",
+          "Unit": "Users"
+        }
+      ]
+    },
+    {
+      "Industry": "Telecommunications",
+      "Sector": "Technology & Communications",
+      "Disclosure_Topics": [
+        "Network Reliability",
+        "Data Privacy",
+        "EMF Safety",
+        "Energy Use",
+        "Digital Inclusion"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Network downtime",
+          "Code": "TC-TL-550a.1",
+          "Unit": "Hours"
+        },
+        {
+          "Metric": "Subscriber data breaches",
+          "Code": "TC-TL-270a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Subscribers",
+          "Code": "TC-TL-000.A",
+          "Unit": "Users"
+        }
+      ]
+    },
+    {
+      "Industry": "Airlines",
+      "Sector": "Transportation",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "Fuel Efficiency",
+        "Air Quality",
+        "Noise Pollution",
+        "Labor Safety",
+        "Customer Safety"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Scope 1 emissions",
+          "Code": "TR-AI-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "Fuel efficiency",
+          "Code": "TR-AI-110a.2",
+          "Unit": "L/100 RPK"
+        },
+        {
+          "Metric": "Safety incidents",
+          "Code": "TR-AI-250a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Passenger-km flown",
+          "Code": "TR-AI-000.A",
+          "Unit": "RPK"
+        },
+        {
+          "Metric": "Cargo tonne-km",
+          "Code": "TR-AI-000.B",
+          "Unit": "FTK"
+        }
+      ]
+    },
+    {
+      "Industry": "Rail Transportation",
+      "Sector": "Transportation",
+      "Disclosure_Topics": [
+        "Energy Use",
+        "Air Emissions",
+        "Fuel Efficiency",
+        "Derailments",
+        "Worker Safety"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Energy consumed",
+          "Code": "TR-RA-130a.1",
+          "Unit": "GJ"
+        },
+        {
+          "Metric": "Air emissions",
+          "Code": "TR-RA-110a.1",
+          "Unit": "t"
+        },
+        {
+          "Metric": "Derailments",
+          "Code": "TR-RA-540a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Rail network length",
+          "Code": "TR-RA-000.A",
+          "Unit": "km"
+        },
+        {
+          "Metric": "Tonne-km transported",
+          "Code": "TR-RA-000.B",
+          "Unit": "TKM"
+        }
+      ]
+    },
+    {
+      "Industry": "Marine Transportation",
+      "Sector": "Transportation",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "SOx/NOx Emissions",
+        "Ballast Water",
+        "Oil Spills",
+        "Biodiversity Impact",
+        "Fuel Efficiency"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "CO2/SOx/NOx emissions",
+          "Code": "TR-MT-110a.1",
+          "Unit": "t"
+        },
+        {
+          "Metric": "Spill incidents",
+          "Code": "TR-MT-160a.1",
+          "Unit": "Liters"
+        },
+        {
+          "Metric": "Ballast water compliance",
+          "Code": "TR-MT-140a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "DWT operated",
+          "Code": "TR-MT-000.A",
+          "Unit": "DWT"
+        },
+        {
+          "Metric": "Distance traveled",
+          "Code": "TR-MT-000.B",
+          "Unit": "km"
+        }
+      ]
+    },
+    {
+      "Industry": "Road Transport",
+      "Sector": "Transportation",
+      "Disclosure_Topics": [
+        "GHG Emissions",
+        "Driver Safety",
+        "Labor Practices",
+        "Accidents",
+        "Vehicle Maintenance"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Scope 1 emissions",
+          "Code": "TR-RT-110a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "Accident rate",
+          "Code": "TR-RT-320a.1",
+          "Unit": "Rate"
+        },
+        {
+          "Metric": "Driver turnover",
+          "Code": "TR-RT-330a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Distance traveled",
+          "Code": "TR-RT-000.A",
+          "Unit": "km"
+        },
+        {
+          "Metric": "Fleet size",
+          "Code": "TR-RT-000.B",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Auto Manufacturing",
+      "Sector": "Transportation",
+      "Disclosure_Topics": [
+        "Lifecycle Emissions",
+        "Battery Supply Chain",
+        "Vehicle Safety",
+        "Labor Conditions",
+        "Circular Economy"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "GHG per vehicle",
+          "Code": "TR-AM-110a.1",
+          "Unit": "kgCO2e"
+        },
+        {
+          "Metric": "NCAP 5-star rating percentage",
+          "Code": "TR-AM-410a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Responsible battery sourcing",
+          "Code": "TR-AM-440a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Vehicles produced",
+          "Code": "TR-AM-000.A",
+          "Unit": "Units"
+        }
+      ]
+    },
+    {
+      "Industry": "Aerospace & Defense",
+      "Sector": "Transportation",
+      "Disclosure_Topics": [
+        "Product Safety",
+        "Corruption & Ethics",
+        "Worker Safety",
+        "Emissions in Manufacturing",
+        "Cybersecurity"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Safety incidents",
+          "Code": "TR-AD-250a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Corruption cases",
+          "Code": "TR-AD-510a.1",
+          "Unit": "Count"
+        },
+        {
+          "Metric": "Energy intensity",
+          "Code": "TR-AD-130a.1",
+          "Unit": "GJ/unit"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Aircraft delivered",
+          "Code": "TR-AD-000.A",
+          "Unit": "Units"
+        }
+      ]
+    },
+    {
+      "Industry": "Commercial Banks",
+      "Sector": "Financials",
+      "Disclosure_Topics": [
+        "Credit Risk & ESG Integration",
+        "Financed Emissions",
+        "Data Privacy & Security",
+        "Responsible Lending",
+        "Ethics & Corruption"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Financed emissions (PCAF)",
+          "Code": "FN-CB-410a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "Non-performing loan rate",
+          "Code": "FN-CB-510a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Customer data breaches",
+          "Code": "FN-CB-230a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Loans outstanding",
+          "Code": "FN-CB-000.A",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "Industry": "Investment Banking & Brokerage",
+      "Sector": "Financials",
+      "Disclosure_Topics": [
+        "ESG Integration in Advisory",
+        "Conflicts of Interest",
+        "Cybersecurity",
+        "Diversity & Inclusion",
+        "Responsible Underwriting"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "ESG-integrated deals",
+          "Code": "FN-IB-410a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Cyber incidents",
+          "Code": "FN-IB-230a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Transactions completed",
+          "Code": "FN-IB-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Asset Management",
+      "Sector": "Financials",
+      "Disclosure_Topics": [
+        "ESG Integration in Investment Decisions",
+        "Engagement & Stewardship",
+        "Product Label Integrity",
+        "Data Privacy"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "ESG AUM percentage",
+          "Code": "FN-AM-410a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Client data incidents",
+          "Code": "FN-AM-230a.1",
+          "Unit": "Count"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Assets under management",
+          "Code": "FN-AM-000.A",
+          "Unit": "USD"
+        }
+      ]
+    },
+    {
+      "Industry": "Insurance",
+      "Sector": "Financials",
+      "Disclosure_Topics": [
+        "Climate Risk in Underwriting",
+        "Catastrophe Exposure",
+        "Data Privacy",
+        "Customer Relations",
+        "Ethical Sales Practices"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Insured emissions",
+          "Code": "FN-IN-410a.1",
+          "Unit": "tCO2e"
+        },
+        {
+          "Metric": "Claims processing accuracy",
+          "Code": "FN-IN-000.B",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Policies written",
+          "Code": "FN-IN-000.A",
+          "Unit": "Count"
+        }
+      ]
+    },
+    {
+      "Industry": "Mortgage Finance",
+      "Sector": "Financials",
+      "Disclosure_Topics": [
+        "Responsible Borrowing",
+        "Asset Quality",
+        "Climate Exposure of Mortgages",
+        "Data Security",
+        "Fair Lending"
+      ],
+      "Accounting_Metrics": [
+        {
+          "Metric": "Default rate",
+          "Code": "FN-MF-510a.1",
+          "Unit": "%"
+        },
+        {
+          "Metric": "Climate-exposed mortgage share",
+          "Code": "FN-MF-450a.1",
+          "Unit": "%"
+        }
+      ],
+      "Activity_Metrics": [
+        {
+          "Metric": "Mortgage portfolio size",
+          "Code": "FN-MF-000.A",
+          "Unit": "USD"
+        }
+      ]
+    }
+  ]
+}
