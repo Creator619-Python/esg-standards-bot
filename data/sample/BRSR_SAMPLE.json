@@ -1,0 +1,3629 @@
+{
+  "ESRS_Annex_I": {
+    "Methodology_Definitions_Batch_1": [
+      {
+        "Term": "Reporting Boundary",
+        "Definition": "The scope of operations, subsidiaries, and value chain relationships included in sustainability disclosures based on control, influence, or impact relevance."
+      },
+      {
+        "Term": "Organizational Boundary",
+        "Definition": "The entities consolidated into the report according to ownership, financial control, or operational control criteria."
+      },
+      {
+        "Term": "Operational Control",
+        "Definition": "A consolidation approach where the company includes operations for which it directs day-to-day activities and performance."
+      },
+      {
+        "Term": "Financial Control",
+        "Definition": "A consolidation basis where the company includes entities it has the authority to govern financially, typically through majority ownership."
+      },
+      {
+        "Term": "Equity Share Approach",
+        "Definition": "A method that accounts for impacts and emissions in proportion to the company’s ownership stake in a joint venture or associate."
+      },
+      {
+        "Term": "Materiality Assessment",
+        "Definition": "A structured process used to identify which sustainability matters are significant enough to report based on impact and financial considerations."
+      },
+      {
+        "Term": "Impact Materiality Threshold",
+        "Definition": "The minimum level of severity or likelihood required for a sustainability impact to be considered significant."
+      },
+      {
+        "Term": "Financial Materiality Threshold",
+        "Definition": "The point at which sustainability-related risks or opportunities can influence financial performance or enterprise value."
+      },
+      {
+        "Term": "Stakeholder Input",
+        "Definition": "Data, insights, or perspectives provided by stakeholders to inform materiality, risk assessment, or decision-making."
+      },
+      {
+        "Term": "Baseline Year",
+        "Definition": "A reference year used to measure future progress or trends for sustainability targets and metrics."
+      },
+      {
+        "Term": "Restatement",
+        "Definition": "Revising previously reported figures due to methodological changes, error corrections, or boundary adjustments."
+      },
+      {
+        "Term": "Forward-Looking Assumptions",
+        "Definition": "Expectations about future events, technologies, and policies used in projections, targets, or scenario analyses."
+      },
+      {
+        "Term": "Scenario Analysis",
+        "Definition": "An evaluation of potential future outcomes by modeling different policy, climate, or economic situations to assess resilience."
+      },
+      {
+        "Term": "Climate Scenario",
+        "Definition": "A structured representation of possible future climate conditions, based on greenhouse gas trajectories and socio-economic pathways."
+      },
+      {
+        "Term": "Decarbonisation Pathway",
+        "Definition": "A sequence of milestones and changes that outline how an organization plans to reduce greenhouse gas emissions over time."
+      },
+      {
+        "Term": "Uncertainty Assessment",
+        "Definition": "The evaluation of limitations, variability, or unknowns that may affect data accuracy or scenario outcomes."
+      },
+      {
+        "Term": "Estimation Technique",
+        "Definition": "A method used when exact data is unavailable, relying on reasonable assumptions, proxies, or modeling."
+      },
+      {
+        "Term": "Proxy Data",
+        "Definition": "Indirect or representative data used to approximate actual values when direct measurements are unavailable."
+      },
+      {
+        "Term": "Activity Data",
+        "Definition": "Quantitative information describing processes or operations, such as fuel consumed or materials used, used for calculating impacts."
+      },
+      {
+        "Term": "Data Completeness",
+        "Definition": "The extent to which all relevant information is captured and included in the sustainability report."
+      },
+      {
+        "Term": "Data Consistency",
+        "Definition": "The use of stable methods, definitions, and boundaries that allow comparison across reporting periods."
+      },
+      {
+        "Term": "Data Reliability",
+        "Definition": "Confidence that reported data is accurate, traceable, and supported by robust evidence or controls."
+      },
+      {
+        "Term": "Comparability",
+        "Definition": "The ability to analyze performance across time periods, peers, or sectors due to consistent reporting methods."
+      },
+      {
+        "Term": "Verifiability",
+        "Definition": "The degree to which data and assumptions can be independently checked and validated by internal or external reviewers."
+      },
+      {
+        "Term": "Traceability",
+        "Definition": "The ability to follow data back to its source, including processes, systems, and calculations."
+      },
+      {
+        "Term": "Boundary Adjustments",
+        "Definition": "Changes to what is included in reporting due to acquisitions, divestments, reorganizations, or updated control definitions."
+      },
+      {
+        "Term": "Significant Change",
+        "Definition": "A shift in operations, boundaries, or methods that materially affects reported figures and requires disclosure."
+      },
+      {
+        "Term": "Methodological Choice",
+        "Definition": "A selected approach for measurement or calculation when multiple valid methods exist."
+      },
+      {
+        "Term": "Assumption Disclosure",
+        "Definition": "Reporting on the key assumptions underlying estimates, projections, or scenarios to enhance transparency."
+      },
+      {
+        "Term": "Data Quality Hierarchy",
+        "Definition": "A ranking system that prioritizes direct measurements over estimates and proxies, promoting reliability in reporting."
+      }
+    ],
+    "Governance_Definitions_Batch_3": [
+      {
+        "Term": "Enterprise Risk Management (ERM)",
+        "Definition": "A structured approach used to identify, assess, and manage risks across the organization, ensuring resilience and informed decision-making."
+      },
+      {
+        "Term": "Risk Appetite",
+        "Definition": "The type and level of risk the company is willing to accept in pursuit of strategic objectives."
+      },
+      {
+        "Term": "Risk Tolerance",
+        "Definition": "The acceptable variation in performance or outcomes related to specific risks."
+      },
+      {
+        "Term": "Risk Mitigation",
+        "Definition": "Actions taken to reduce the likelihood or impact of an identified risk."
+      },
+      {
+        "Term": "Risk Owner",
+        "Definition": "An individual or team responsible for monitoring, managing, and responding to a specific risk."
+      },
+      {
+        "Term": "Internal Control Framework",
+        "Definition": "A comprehensive system of policies and procedures designed to ensure effective operations, reliable reporting, and compliance with laws."
+      },
+      {
+        "Term": "Control Activity",
+        "Definition": "A specific procedure or action implemented to prevent, detect, or correct deviations from desired outcomes."
+      },
+      {
+        "Term": "Control Testing",
+        "Definition": "The evaluation of whether controls are designed appropriately and functioning effectively."
+      },
+      {
+        "Term": "Governance Assurance",
+        "Definition": "Processes that provide confidence in the accuracy, completeness, and reliability of sustainability or financial information."
+      },
+      {
+        "Term": "Internal Assurance",
+        "Definition": "Verification activities performed within the organization to validate data quality, processes, and reporting accuracy."
+      },
+      {
+        "Term": "External Assurance",
+        "Definition": "Independent review by third parties to confirm the quality and credibility of the company's disclosures."
+      },
+      {
+        "Term": "Limited Assurance",
+        "Definition": "A moderate level of external assurance that concludes nothing has come to the auditor’s attention indicating material misstatement."
+      },
+      {
+        "Term": "Reasonable Assurance",
+        "Definition": "A higher level of assurance providing a positive opinion on whether the disclosures are free of material misstatement."
+      },
+      {
+        "Term": "Scenario Analysis Oversight",
+        "Definition": "The board’s role in reviewing assumptions, models, and outcomes used to assess resilience under future climate or economic scenarios."
+      },
+      {
+        "Term": "Governance Boundary",
+        "Definition": "The scope of activities, subsidiaries, and value chain relationships for which governance responsibilities apply."
+      },
+      {
+        "Term": "Delegation of Authority",
+        "Definition": "The formal assignment of decision-making powers from the board to executives or other leadership roles."
+      },
+      {
+        "Term": "Segregation of Duties",
+        "Definition": "A control principle requiring that responsibilities for key processes be split among individuals to reduce the risk of error or fraud."
+      },
+      {
+        "Term": "Information Integrity",
+        "Definition": "The accuracy, consistency, and reliability of information used in decision-making or reporting."
+      },
+      {
+        "Term": "Data Quality Management",
+        "Definition": "Processes ensuring that sustainability and financial data are accurate, complete, consistent, and traceable."
+      },
+      {
+        "Term": "Record Retention",
+        "Definition": "The policy and practice of storing documents and data for a specified period to meet legal or operational requirements."
+      },
+      {
+        "Term": "Documentation Trail",
+        "Definition": "Evidence supporting how data was generated, validated, and reported to allow for verification and auditability."
+      },
+      {
+        "Term": "Governance Disclosure",
+        "Definition": "Public reporting on governance structures, policies, oversight roles, ethical conduct, and risk management processes."
+      },
+      {
+        "Term": "Fit and Proper Criteria",
+        "Definition": "Standards ensuring that individuals appointed to governance roles possess appropriate integrity, competence, and experience."
+      },
+      {
+        "Term": "Leadership Continuity",
+        "Definition": "Processes ensuring that organizational leadership remains stable and capable over time, especially during transitions."
+      },
+      {
+        "Term": "Stakeholder Accountability",
+        "Definition": "The obligation of leaders to address stakeholder concerns, explain decisions, and justify governance practices."
+      },
+      {
+        "Term": "Ethical Risk",
+        "Definition": "The possibility of harm arising from unethical behavior such as corruption, fraud, or misuse of power."
+      },
+      {
+        "Term": "Governance Monitoring",
+        "Definition": "Ongoing assessment of compliance, ethics, controls, and performance by oversight bodies or internal functions."
+      },
+      {
+        "Term": "Transparency Controls",
+        "Definition": "Mechanisms ensuring that relevant governance information is disclosed clearly and honestly to stakeholders."
+      },
+      {
+        "Term": "Sustainability Oversight",
+        "Definition": "The governance responsibility for monitoring environmental, social, and governance issues, including targets and progress."
+      },
+      {
+        "Term": "Board Competency",
+        "Definition": "The collective skills, experience, and knowledge required for the board to discharge its responsibilities effectively."
+      }
+    ],
+    "Governance_Definitions_Batch_2": [
+      {
+        "Term": "Board Independence",
+        "Definition": "The extent to which board members are free from business, financial, or personal relationships that could influence objective judgment."
+      },
+      {
+        "Term": "Independent Director",
+        "Definition": "A board member without material ties to the company, ensuring unbiased oversight of strategy and management."
+      },
+      {
+        "Term": "Non-Executive Director",
+        "Definition": "A board member who is not involved in day-to-day management but contributes to oversight and strategic decisions."
+      },
+      {
+        "Term": "Executive Director",
+        "Definition": "A board member who also holds a senior leadership position within the company, involved in operational decision-making."
+      },
+      {
+        "Term": "Board Diversity",
+        "Definition": "The representation of diverse genders, backgrounds, skills, and experiences among board members to enhance decision quality."
+      },
+      {
+        "Term": "Skills Matrix",
+        "Definition": "A mapping of the competencies, expertise, and qualifications represented on the board to assess alignment with organizational needs."
+      },
+      {
+        "Term": "Board Evaluation",
+        "Definition": "A periodic assessment of the board’s effectiveness, performance, and governance processes."
+      },
+      {
+        "Term": "Succession Planning",
+        "Definition": "A structured process to identify and prepare future leaders for key roles to ensure continuity and stability."
+      },
+      {
+        "Term": "Leadership Accountability",
+        "Definition": "The responsibility of senior leaders to justify decisions, demonstrate ethical conduct, and deliver expected outcomes."
+      },
+      {
+        "Term": "Ethical Leadership",
+        "Definition": "Leadership that models integrity, fairness, and transparency, influencing organizational culture and behavior."
+      },
+      {
+        "Term": "Corporate Culture",
+        "Definition": "The shared values, behaviors, and norms that shape decision-making and conduct across an organization."
+      },
+      {
+        "Term": "Integrity Framework",
+        "Definition": "A set of policies, controls, and practices designed to promote honesty, ethical decision-making, and compliance."
+      },
+      {
+        "Term": "Compliance Culture",
+        "Definition": "An organizational environment in which adherence to laws, policies, and ethical principles is actively promoted and reinforced."
+      },
+      {
+        "Term": "Misconduct",
+        "Definition": "Any behavior that violates legal requirements, policies, ethical codes, or expected standards of conduct."
+      },
+      {
+        "Term": "Fraud",
+        "Definition": "Intentional deception or manipulation intended to secure unjust or unlawful gain."
+      },
+      {
+        "Term": "Anti-Money Laundering (AML)",
+        "Definition": "Policies and controls designed to prevent the use of financial systems for illegal or concealed transactions."
+      },
+      {
+        "Term": "Politically Exposed Person (PEP)",
+        "Definition": "An individual holding a prominent public function who may pose higher corruption or bribery risks."
+      },
+      {
+        "Term": "Lobbying",
+        "Definition": "Efforts to influence public policy, legislation, or regulation on behalf of the company’s interests."
+      },
+      {
+        "Term": "Political Engagement",
+        "Definition": "Activities through which a company interacts with political stakeholders, such as policy advocacy, consultations, or participation in public debates."
+      },
+      {
+        "Term": "Political Donations",
+        "Definition": "Financial or in-kind contributions made by a company to political parties, candidates, or political causes."
+      },
+      {
+        "Term": "Public Policy Position",
+        "Definition": "The company’s documented stance on specific regulatory or societal issues and how these influence its advocacy efforts."
+      },
+      {
+        "Term": "Transparency Register",
+        "Definition": "A public disclosure system capturing information on lobbying activities, interest representation, or political influence."
+      },
+      {
+        "Term": "Stakeholder Engagement Policy",
+        "Definition": "A formal statement describing how the company consults, communicates, and collaborates with internal and external stakeholders."
+      },
+      {
+        "Term": "Grievance Oversight",
+        "Definition": "The responsibility of governance bodies to ensure that grievance mechanisms are functioning, fair, and accessible."
+      },
+      {
+        "Term": "Sanctions and Disciplinary Actions",
+        "Definition": "Consequences imposed on individuals or partners for violations of policies, ethical standards, or legal obligations."
+      },
+      {
+        "Term": "Third-Party Risk Management",
+        "Definition": "Processes to evaluate and monitor risks posed by suppliers, intermediaries, and business partners."
+      },
+      {
+        "Term": "Speak-Up Culture",
+        "Definition": "A workplace environment that encourages individuals to report concerns without fear of retaliation."
+      },
+      {
+        "Term": "Retaliation",
+        "Definition": "Any adverse action taken against a person because they reported misconduct or participated in an investigation."
+      },
+      {
+        "Term": "Data Governance",
+        "Definition": "Policies and controls ensuring that organizational data is accurate, secure, and used responsibly."
+      },
+      {
+        "Term": "Cybersecurity Oversight",
+        "Definition": "Governance responsibilities related to monitoring cyber risks, data protection, and response readiness."
+      }
+    ],
+    "Governance_Definitions": [
+      {
+        "Term": "Governance Structure",
+        "Definition": "The system of leadership, oversight bodies, committees, and reporting lines that guide how a company is directed and controlled."
+      },
+      {
+        "Term": "Board of Directors",
+        "Definition": "The highest governing body responsible for strategic direction, oversight of risks, and safeguarding the company’s long-term value."
+      },
+      {
+        "Term": "Executive Management",
+        "Definition": "Senior leaders responsible for operational decisions, implementation of strategy, and day-to-day management."
+      },
+      {
+        "Term": "Board Committee",
+        "Definition": "A specialized subgroup of the board tasked with oversight of specific areas such as audit, risk, sustainability, or remuneration."
+      },
+      {
+        "Term": "Audit Committee",
+        "Definition": "A board committee overseeing financial reporting, internal controls, external audits, and compliance with legal requirements."
+      },
+      {
+        "Term": "Sustainability Committee",
+        "Definition": "A governance unit responsible for monitoring the company’s environmental, social, and governance performance and strategy alignment."
+      },
+      {
+        "Term": "Risk Committee",
+        "Definition": "A committee focused on monitoring enterprise risks, including sustainability-related risks and emerging threats."
+      },
+      {
+        "Term": "Nomination Committee",
+        "Definition": "The committee that oversees board appointments, succession planning, and leadership evaluation."
+      },
+      {
+        "Term": "Remuneration Committee",
+        "Definition": "A body responsible for determining executive compensation, incentives, and alignment with strategic outcomes."
+      },
+      {
+        "Term": "Internal Control System",
+        "Definition": "A set of processes and mechanisms designed to ensure reliability of reporting, compliance with laws, and safeguarding of assets."
+      },
+      {
+        "Term": "Internal Audit",
+        "Definition": "An independent function evaluating the effectiveness of controls, governance processes, and risk management."
+      },
+      {
+        "Term": "External Audit",
+        "Definition": "A third-party review of the company’s financial and sustainability disclosures to provide assurance on accuracy and reliability."
+      },
+      {
+        "Term": "Compliance Function",
+        "Definition": "The unit tasked with ensuring adherence to laws, regulations, internal policies, and ethical standards."
+      },
+      {
+        "Term": "Code of Conduct",
+        "Definition": "A formal set of principles outlining expected ethical behavior for employees, management, and sometimes suppliers."
+      },
+      {
+        "Term": "Ethics Program",
+        "Definition": "A structured set of policies, training, and monitoring activities designed to prevent unethical or illegal behavior."
+      },
+      {
+        "Term": "Conflict of Interest",
+        "Definition": "A situation where personal interests could improperly influence professional duties or decisions."
+      },
+      {
+        "Term": "Whistleblowing Mechanism",
+        "Definition": "A confidential channel that allows employees and stakeholders to report misconduct or unethical behavior without fear of retaliation."
+      },
+      {
+        "Term": "Anti-Corruption Policy",
+        "Definition": "A formal commitment prohibiting bribery, facilitation payments, and corrupt practices across the company and value chain."
+      },
+      {
+        "Term": "Bribery",
+        "Definition": "Offering, giving, receiving, or soliciting something of value to influence a decision or secure improper advantage."
+      },
+      {
+        "Term": "Facilitation Payment",
+        "Definition": "Small unofficial payments made to speed up routine administrative actions, prohibited under most anti-bribery frameworks."
+      },
+      {
+        "Term": "Due Diligence",
+        "Definition": "Processes used to evaluate risks, including sustainability, compliance, legal, or operational risks, associated with business partners or transactions."
+      },
+      {
+        "Term": "Beneficial Owner",
+        "Definition": "A natural person who ultimately controls or benefits from a company, even if ownership is through intermediaries."
+      },
+      {
+        "Term": "Remuneration Policy",
+        "Definition": "A framework governing salary, bonuses, incentives, and performance metrics for executives and senior leaders."
+      },
+      {
+        "Term": "Short-Term Incentive",
+        "Definition": "Performance-linked compensation awarded based on achievements within a one-year period."
+      },
+      {
+        "Term": "Long-Term Incentive",
+        "Definition": "Compensation tied to multi-year performance or value creation, often paid through shares or deferred payments."
+      },
+      {
+        "Term": "Clawback Provision",
+        "Definition": "A clause allowing the company to reclaim previously awarded bonuses or incentives in case of misconduct or reporting errors."
+      },
+      {
+        "Term": "Tone at the Top",
+        "Definition": "The ethical culture set by senior leaders that influences behavior throughout the organization."
+      },
+      {
+        "Term": "Related Party Transaction",
+        "Definition": "A business transaction with individuals or entities that have close personal or financial ties to company leadership."
+      },
+      {
+        "Term": "Transparency",
+        "Definition": "Clear, open communication of relevant information that enables stakeholders to understand the company’s decisions and performance."
+      },
+      {
+        "Term": "Accountability",
+        "Definition": "The responsibility of leaders to justify decisions, ensure ethical conduct, and accept the consequences of actions taken under their oversight."
+      }
+    ],
+    "Social_Definitions_Batch_3": [
+      {
+        "Term": "Community Health",
+        "Definition": "The physical, mental, and social wellbeing of populations living near a company’s operations, influenced by environmental, economic, and social factors."
+      },
+      {
+        "Term": "Community Wellbeing",
+        "Definition": "The overall quality of life of local populations, shaped by safety, access to resources, cultural integrity, and economic opportunities."
+      },
+      {
+        "Term": "Land Rights",
+        "Definition": "Legal or customary entitlements that individuals or communities hold over land use, ownership, or access."
+      },
+      {
+        "Term": "Land Acquisition",
+        "Definition": "The process of obtaining land for business operations, which may involve purchase, lease, or government-led acquisition."
+      },
+      {
+        "Term": "Physical Displacement",
+        "Definition": "The relocation of individuals or communities from their homes due to company projects or regulatory decisions."
+      },
+      {
+        "Term": "Resettlement",
+        "Definition": "Organized relocation of displaced people, including measures to restore housing, livelihoods, and social support systems."
+      },
+      {
+        "Term": "Livelihood Restoration",
+        "Definition": "Activities aimed at re-establishing income, employment, and economic stability for people affected by displacement."
+      },
+      {
+        "Term": "Human Rights Impact",
+        "Definition": "Any positive or negative effect on individuals’ fundamental rights caused or influenced by the company."
+      },
+      {
+        "Term": "Human Rights Risk",
+        "Definition": "A situation where company activities could lead to harm or rights violations for workers, consumers, or communities."
+      },
+      {
+        "Term": "Severity of Impact",
+        "Definition": "The level of harm caused by an impact, determined by scale, scope, and how difficult the harm is to reverse."
+      },
+      {
+        "Term": "Remediation",
+        "Definition": "Steps taken by a company to address and compensate for harm caused to people or communities."
+      },
+      {
+        "Term": "Social Dialogue",
+        "Definition": "Structured communication between employers, workers, and their representatives to negotiate working conditions and resolve workplace issues."
+      },
+      {
+        "Term": "Worker Committee",
+        "Definition": "A formal body composed of worker representatives that participates in discussions about workplace issues, safety, and welfare."
+      },
+      {
+        "Term": "Collective Voice Mechanism",
+        "Definition": "Platforms enabling employees to share concerns or suggestions collectively, such as town halls, surveys, or focus groups."
+      },
+      {
+        "Term": "Psychosocial Risk",
+        "Definition": "Workplace conditions that can negatively affect mental health, such as high workload, job insecurity, or bullying."
+      },
+      {
+        "Term": "Mental Health Support",
+        "Definition": "Services and resources provided to promote psychological wellbeing, including counseling, awareness programs, and stress management support."
+      },
+      {
+        "Term": "Worker Welfare Facilities",
+        "Definition": "Amenities provided to ensure safety, comfort, and hygiene at the workplace, such as restrooms, medical facilities, and canteens."
+      },
+      {
+        "Term": "Safe Working Conditions",
+        "Definition": "Work environments designed to minimize the risk of injury, illness, or harm, in compliance with legal and industry standards."
+      },
+      {
+        "Term": "Fair Recruitment",
+        "Definition": "Employment practices that ensure transparency, non-discrimination, and no recruitment-related fees charged to workers."
+      },
+      {
+        "Term": "Wage Theft",
+        "Definition": "Illegally withholding wages, overtime pay, or benefits owed to workers."
+      },
+      {
+        "Term": "Access to Essential Services",
+        "Definition": "Availability of basic services such as water, healthcare, sanitation, energy, education, and transportation for workers and communities."
+      },
+      {
+        "Term": "Consumer Vulnerability",
+        "Definition": "Characteristics that make certain consumer groups more susceptible to harm, such as age, disability, economic status, or lack of access to information."
+      },
+      {
+        "Term": "Product Misuse Risk",
+        "Definition": "The chance that customers use a product incorrectly, resulting in safety hazards or poor outcomes."
+      },
+      {
+        "Term": "Informed Consent (Consumer)",
+        "Definition": "The process by which customers receive clear, understandable information before agreeing to use a product or share personal data."
+      },
+      {
+        "Term": "Customer Engagement",
+        "Definition": "Efforts by a company to understand customer needs, gather feedback, and maintain long-term relationships."
+      },
+      {
+        "Term": "Customer Grievance",
+        "Definition": "Any complaint raised by a consumer about product quality, safety, service delivery, or ethical concerns."
+      },
+      {
+        "Term": "After-Sales Service",
+        "Definition": "Support provided to customers after purchasing a product, including repairs, returns, warranty claims, and guidance."
+      },
+      {
+        "Term": "Service Accessibility",
+        "Definition": "The ease with which different consumer groups can use or benefit from a product or service without facing unnecessary barriers."
+      },
+      {
+        "Term": "Cultural Heritage",
+        "Definition": "Historical, spiritual, or cultural assets valued by communities and potentially impacted by company operations."
+      },
+      {
+        "Term": "Social Investment",
+        "Definition": "Financial or non-financial contributions made by the company to improve community wellbeing, infrastructure, or social programs."
+      }
+    ],
+    "Social_Definitions_Batch_2": [
+      {
+        "Term": "Migrant Worker",
+        "Definition": "A worker who moves from their usual residence—whether domestically or internationally—to take up employment, often facing distinct social and economic vulnerabilities."
+      },
+      {
+        "Term": "Seasonal Worker",
+        "Definition": "A worker employed for a limited period aligned with seasonal demand or production cycles."
+      },
+      {
+        "Term": "Temporary Worker",
+        "Definition": "A worker engaged for a fixed period or project, without expectation of long-term employment."
+      },
+      {
+        "Term": "Apprentice or Trainee",
+        "Definition": "Individuals enrolled in structured learning programs combining theoretical instruction with practical on-the-job training."
+      },
+      {
+        "Term": "Equal Pay for Equal Work",
+        "Definition": "A principle requiring that individuals performing similar work receive comparable pay regardless of gender, caste, or other identity characteristics."
+      },
+      {
+        "Term": "Direct Discrimination",
+        "Definition": "Unequal treatment explicitly based on a person’s protected characteristics such as gender, race, disability, or religion."
+      },
+      {
+        "Term": "Indirect Discrimination",
+        "Definition": "Policies or practices that appear neutral but disproportionately disadvantage certain groups."
+      },
+      {
+        "Term": "Harassment",
+        "Definition": "Unwanted conduct, verbal or physical, that creates a hostile, intimidating, or offensive work environment."
+      },
+      {
+        "Term": "Sexual Harassment",
+        "Definition": "Any unwelcome sexual behavior—including comments, gestures, or advances—that violates dignity or creates an intimidating environment."
+      },
+      {
+        "Term": "Bullying or Mobbing",
+        "Definition": "Repeated mistreatment or aggressive behavior targeted at a worker that harms mental or emotional wellbeing."
+      },
+      {
+        "Term": "Reasonable Accommodation",
+        "Definition": "Adjustments to work conditions that enable people with disabilities to perform their job effectively without causing undue hardship to the employer."
+      },
+      {
+        "Term": "Accessible Workplace",
+        "Definition": "A work environment designed to enable persons with disabilities to enter, move, and perform tasks without barriers."
+      },
+      {
+        "Term": "Worker Voice",
+        "Definition": "Mechanisms enabling employees to express concerns, offer feedback, and influence workplace decisions."
+      },
+      {
+        "Term": "Worker Representation",
+        "Definition": "Formal channels through which workers engage in dialogue with management, including unions, committees, or elected representatives."
+      },
+      {
+        "Term": "Grievance Redressal",
+        "Definition": "Procedures available to workers or community members to report issues and receive timely, fair resolution."
+      },
+      {
+        "Term": "Modern Slavery",
+        "Definition": "Severe exploitation including forced labor, human trafficking, and practices that restrict a person’s freedom or economic agency."
+      },
+      {
+        "Term": "Human Trafficking",
+        "Definition": "Recruitment, movement, or harboring of persons through coercion or deception for exploitation."
+      },
+      {
+        "Term": "Living Conditions",
+        "Definition": "Quality of housing, sanitation, food access, and basic amenities available to workers, particularly those in dormitories or migrant camps."
+      },
+      {
+        "Term": "Health and Wellbeing",
+        "Definition": "A holistic condition including physical, mental, and emotional health, influenced by workplace safety, workload, and supportive environments."
+      },
+      {
+        "Term": "Work-Life Balance",
+        "Definition": "The ability of workers to manage job responsibilities while maintaining family, social, and personal needs."
+      },
+      {
+        "Term": "Sensitive Group",
+        "Definition": "Individuals who may be disproportionately affected by company activities due to socioeconomic, cultural, or demographic vulnerabilities."
+      },
+      {
+        "Term": "Community Rights",
+        "Definition": "Legal or customary rights of local populations related to land, resources, culture, and access to essential services."
+      },
+      {
+        "Term": "Free, Prior and Informed Consent (FPIC)",
+        "Definition": "The right of indigenous peoples and local communities to approve or oppose activities affecting their land or resources, based on transparent information provided before any decisions are made."
+      },
+      {
+        "Term": "Economic Displacement",
+        "Definition": "Loss of income or livelihood caused by land acquisition, resettlement, or changes in access to natural resources."
+      },
+      {
+        "Term": "Social Impact Assessment",
+        "Definition": "A systematic evaluation of how a project or operation affects the wellbeing, culture, and living standards of communities."
+      },
+      {
+        "Term": "Community Development Program",
+        "Definition": "Initiatives designed to improve social, economic, or environmental conditions in areas affected by the company."
+      },
+      {
+        "Term": "Data Privacy of End Users",
+        "Definition": "Safeguarding of personal information belonging to consumers, ensuring it is collected, processed, and stored lawfully."
+      },
+      {
+        "Term": "Product Accessibility",
+        "Definition": "The degree to which a product or service can be used by people with diverse physical, cognitive, or sensory abilities."
+      },
+      {
+        "Term": "Inclusive Design",
+        "Definition": "Design approaches ensuring that products, services, and environments can be accessed and used by as many people as possible."
+      },
+      {
+        "Term": "Conflict-Affected Area",
+        "Definition": "A region experiencing armed conflict, unrest, or instability, where human rights risks for workers and communities are heightened."
+      }
+    ],
+    "Social_Definitions": [
+      {
+        "Term": "Own Workforce",
+        "Definition": "Employees and non-employee workers directly engaged by the company and operating under its supervision, including permanent, temporary, and contract workers."
+      },
+      {
+        "Term": "Non-Employee Worker",
+        "Definition": "Individuals working for the company through third-party agencies, contractors, or service providers but not on the company's direct payroll."
+      },
+      {
+        "Term": "Worker in the Value Chain",
+        "Definition": "Any worker employed or contracted by the company’s suppliers, distributors, franchisees, or other value chain partners."
+      },
+      {
+        "Term": "Vulnerable Worker",
+        "Definition": "Workers who face greater risks of exploitation or harm due to age, migration status, disability, socioeconomic background, or lack of bargaining power."
+      },
+      {
+        "Term": "Child Labor",
+        "Definition": "Employment of individuals below the legal minimum working age or work that is harmful, hazardous, or interferes with schooling."
+      },
+      {
+        "Term": "Forced Labor",
+        "Definition": "Any work performed involuntarily under threat, coercion, fraud, or restriction of freedom, including debt bondage and withheld documents."
+      },
+      {
+        "Term": "Freedom of Association",
+        "Definition": "The right of workers to form and join trade unions or worker organizations of their choice."
+      },
+      {
+        "Term": "Collective Bargaining",
+        "Definition": "Negotiation between employers and worker representatives to determine working conditions, wages, or other employment terms."
+      },
+      {
+        "Term": "Equal Opportunity",
+        "Definition": "A principle ensuring that employment decisions are free from discrimination based on gender, caste, ethnicity, disability, religion, age, or other personal characteristics."
+      },
+      {
+        "Term": "Diversity and Inclusion",
+        "Definition": "Practices that promote representation, respect, and equitable participation of different demographic and social groups within the workforce."
+      },
+      {
+        "Term": "Living Wage",
+        "Definition": "A wage level that enables a worker and their family to meet basic needs such as housing, food, healthcare, transport, and education."
+      },
+      {
+        "Term": "Fair Remuneration",
+        "Definition": "Compensation that is equitable, non-discriminatory, and consistent with legal requirements and industry norms."
+      },
+      {
+        "Term": "Working Time",
+        "Definition": "Hours of work agreed under employment terms, including overtime, rest periods, and maximum working hours according to labor law."
+      },
+      {
+        "Term": "Occupational Health and Safety (OHS)",
+        "Definition": "Measures and systems aimed at preventing workplace injuries, illnesses, and hazards."
+      },
+      {
+        "Term": "Workplace Accident",
+        "Definition": "Any unplanned event during work that leads to injury, illness, or fatality."
+      },
+      {
+        "Term": "Near Miss",
+        "Definition": "An incident that did not result in harm but had the potential to cause injury or damage."
+      },
+      {
+        "Term": "Lost Time Injury",
+        "Definition": "A workplace injury that prevents a worker from performing normal duties for at least one day after the incident."
+      },
+      {
+        "Term": "LTIFR (Lost Time Injury Frequency Rate)",
+        "Definition": "A safety metric representing the number of lost time injuries per million hours worked."
+      },
+      {
+        "Term": "Workforce Training",
+        "Definition": "Skills development and capability-building activities provided to employees and workers."
+      },
+      {
+        "Term": "Reskilling and Upskilling",
+        "Definition": "Training programs aimed at equipping workers with new skills or deepening existing competencies to meet changing business needs."
+      },
+      {
+        "Term": "Maternity and Paternity Benefits",
+        "Definition": "Employment protections and financial or leave benefits provided to workers during childbirth or parenting."
+      },
+      {
+        "Term": "Community Impact",
+        "Definition": "Positive or negative effects of company activities on local communities, including economic, cultural, environmental, and social aspects."
+      },
+      {
+        "Term": "Affected Community",
+        "Definition": "A group of people living in areas influenced by the company’s operations or value chain."
+      },
+      {
+        "Term": "Indigenous Peoples",
+        "Definition": "Ethnic groups with historical ties to specific territories, often possessing unique cultural, social, and governance systems."
+      },
+      {
+        "Term": "Grievance Mechanism",
+        "Definition": "A formal system through which workers or communities can raise concerns, complaints, or violations safely and confidentially."
+      },
+      {
+        "Term": "Human Rights Due Diligence",
+        "Definition": "Processes used to identify, prevent, mitigate, and report human rights impacts linked to company operations or value chain relationships."
+      },
+      {
+        "Term": "Social Protection Coverage",
+        "Definition": "Access to benefits such as healthcare, pensions, social insurance, and income security."
+      },
+      {
+        "Term": "Labor Broker",
+        "Definition": "An intermediary or agency responsible for supplying workers to companies or contractors."
+      },
+      {
+        "Term": "Consumer Health and Safety",
+        "Definition": "Measures ensuring that products and services do not cause harm during use and meet quality and safety standards."
+      },
+      {
+        "Term": "Customer Privacy",
+        "Definition": "Protection of personal data collected from consumers, ensuring confidentiality and lawful handling."
+      }
+    ],
+    "Environmental_Definitions": [
+      {
+        "Term": "Greenhouse Gas (GHG)",
+        "Definition": "Gases in the atmosphere that trap heat and contribute to global warming, including CO2, CH4, N2O, SF6, HFCs, and PFCs."
+      },
+      {
+        "Term": "GHG Protocol",
+        "Definition": "The internationally accepted framework used to measure, classify, and report greenhouse gas emissions."
+      },
+      {
+        "Term": "Scope 1 Emissions",
+        "Definition": "Direct greenhouse gas emissions from sources owned or operated by the company such as boilers, furnaces, and vehicles."
+      },
+      {
+        "Term": "Scope 2 Emissions",
+        "Definition": "Indirect GHG emissions from the generation of purchased electricity, heat, steam, or cooling consumed by the company."
+      },
+      {
+        "Term": "Scope 3 Emissions",
+        "Definition": "All other indirect emissions arising from activities in the company’s value chain, including suppliers, transportation, product use, and disposal."
+      },
+      {
+        "Term": "CO2e (Carbon Dioxide Equivalent)",
+        "Definition": "A unified measure expressing the impact of different greenhouse gases using their global warming potential (GWP)."
+      },
+      {
+        "Term": "Emission Factor",
+        "Definition": "A coefficient that converts activity data—such as fuel consumed or electricity used—into greenhouse gas emissions."
+      },
+      {
+        "Term": "Global Warming Potential (GWP)",
+        "Definition": "A metric showing how much heat a greenhouse gas traps compared to CO₂ over a specific time horizon."
+      },
+      {
+        "Term": "Carbon Removal",
+        "Definition": "Activities that capture and permanently store atmospheric CO₂, such as reforestation, direct air capture, or soil carbon enhancement."
+      },
+      {
+        "Term": "Carbon Offset",
+        "Definition": "A credit representing verified reductions or removals of greenhouse gas emissions outside the company’s own operations."
+      },
+      {
+        "Term": "Carbon Credit",
+        "Definition": "A tradable certificate recognizing the reduction or removal of one tonne of CO₂ equivalent emissions."
+      },
+      {
+        "Term": "Renewable Energy",
+        "Definition": "Energy generated from naturally replenished sources such as solar, wind, hydro, geothermal, and sustainable biomass."
+      },
+      {
+        "Term": "Energy Intensity",
+        "Definition": "A measure of energy used per unit output, revenue, or operational metric."
+      },
+      {
+        "Term": "Climate Risk",
+        "Definition": "The potential negative effects on the company arising from climate-related physical events or transition policy changes."
+      },
+      {
+        "Term": "Physical Climate Risk",
+        "Definition": "Risks resulting from climate-driven events such as heatwaves, floods, storms, or changes in long-term climate patterns."
+      },
+      {
+        "Term": "Transition Risk",
+        "Definition": "Risks arising from regulatory changes, market shifts, carbon pricing, or technological transitions associated with moving to a low-carbon economy."
+      },
+      {
+        "Term": "Adaptation",
+        "Definition": "Actions to manage or reduce the negative effects of climate change and enhance resilience to environmental stresses."
+      },
+      {
+        "Term": "Mitigation",
+        "Definition": "Activities that reduce the severity of climate change by lowering or avoiding greenhouse gas emissions."
+      },
+      {
+        "Term": "Climate Resilience",
+        "Definition": "The ability of the company to withstand, recover, and adapt to climate-related disruptions."
+      },
+      {
+        "Term": "Water Withdrawal",
+        "Definition": "The total volume of freshwater extracted from all sources including groundwater, surface water, municipal supply, and rainwater."
+      },
+      {
+        "Term": "Water Consumption",
+        "Definition": "Water used in operations that is not returned to its source, due to evaporation, product integration, or other losses."
+      },
+      {
+        "Term": "Water Discharge",
+        "Definition": "Water released back to the environment or wastewater systems after use, often requiring quality monitoring."
+      },
+      {
+        "Term": "Water-Stressed Area",
+        "Definition": "A region where water availability is significantly lower compared to demand, creating scarcity risks for ecosystems and communities."
+      },
+      {
+        "Term": "Biodiversity",
+        "Definition": "The variety of life across species, ecosystems, and genetic diversity in a given area."
+      },
+      {
+        "Term": "Ecosystem Services",
+        "Definition": "Benefits provided by nature—such as clean water, pollination, soil quality, and climate regulation—that support human and economic activity."
+      },
+      {
+        "Term": "Habitat Degradation",
+        "Definition": "A decline in the quality or function of a natural environment due to human activity."
+      },
+      {
+        "Term": "Pollution",
+        "Definition": "Contamination of air, water, or soil through harmful substances or emissions from industrial or commercial activity."
+      },
+      {
+        "Term": "Air Emissions",
+        "Definition": "Releases of pollutants such as SOx, NOx, particulate matter, and volatile organic compounds into the atmosphere."
+      },
+      {
+        "Term": "Waste Diversion",
+        "Definition": "Processes that prevent waste from being sent to landfill through recycling, reuse, or recovery."
+      },
+      {
+        "Term": "Circular Economy",
+        "Definition": "An economic system focused on minimizing waste by increasing reuse, recycling, and product lifecycle extension."
+      }
+    ],
+    "General_Definitions": [
+      {
+        "Term": "Sustainability Matter",
+        "Definition": "A topic related to environmental, social, or governance performance that can influence the company’s impacts, financial condition, or long-term viability."
+      },
+      {
+        "Term": "Impact Materiality",
+        "Definition": "The importance of a company’s activities in terms of the positive or negative effects they cause or contribute to across environmental and social systems."
+      },
+      {
+        "Term": "Financial Materiality",
+        "Definition": "The likelihood that sustainability-related events, risks, or opportunities will influence the company’s financial performance, cash flows, or enterprise value."
+      },
+      {
+        "Term": "Double Materiality",
+        "Definition": "A combined perspective that considers both the company’s impacts on society/environment and how sustainability matters affect the company’s financial outcomes."
+      },
+      {
+        "Term": "Value Chain",
+        "Definition": "All activities and relationships connected to a company’s operations, including upstream suppliers and downstream distributors, customers, and end-users."
+      },
+      {
+        "Term": "Upstream Value Chain",
+        "Definition": "Actors and activities providing goods or services used by the company, including raw materials, components, and contract workforce providers."
+      },
+      {
+        "Term": "Downstream Value Chain",
+        "Definition": "Activities occurring after a product or service leaves the company, including distribution, use phase, maintenance, reuse, recycling, and disposal."
+      },
+      {
+        "Term": "Sustainability Due Diligence",
+        "Definition": "A structured process to identify, prevent, mitigate, and account for adverse environmental or social impacts linked to the company’s operations and value chain."
+      },
+      {
+        "Term": "Stakeholder",
+        "Definition": "Any individual or group that can be affected by the company’s actions or whose actions can influence the company’s sustainability performance."
+      },
+      {
+        "Term": "Engaged Stakeholder",
+        "Definition": "A stakeholder group that the company interacts with through dialogue, consultation, or formal engagement processes."
+      },
+      {
+        "Term": "Affected Stakeholder",
+        "Definition": "Individuals or communities experiencing actual or potential impacts—positive or negative—due to the company’s activities."
+      },
+      {
+        "Term": "Governance Body",
+        "Definition": "A board, committee, or leadership unit designated to oversee strategy, risk management, sustainability objectives, and accountability mechanisms."
+      },
+      {
+        "Term": "Sustainability Statement",
+        "Definition": "The structured set of disclosures presenting the company’s sustainability information in alignment with ESRS requirements."
+      },
+      {
+        "Term": "Reporting Period",
+        "Definition": "The defined duration (usually one financial year) for which the sustainability disclosures apply."
+      },
+      {
+        "Term": "Time Horizons",
+        "Definition": "Short-, medium-, and long-term periods used for identifying sustainability risks and opportunities relevant to strategy and planning."
+      },
+      {
+        "Term": "Sustainability Target",
+        "Definition": "A measurable performance goal set by the company to improve outcomes related to ESG matters within a defined timeframe."
+      },
+      {
+        "Term": "Sustainability Policy",
+        "Definition": "A formal commitment outlining the company’s approach, principles, and expectations regarding environmental or social performance."
+      },
+      {
+        "Term": "Action Plan",
+        "Definition": "A documented set of steps, initiatives, and responsibilities to implement sustainability strategies and achieve targets."
+      },
+      {
+        "Term": "Capabilities & Resources",
+        "Definition": "Skills, systems, budgets, technologies, and organizational capacities used to implement sustainability strategies."
+      },
+      {
+        "Term": "Sustainability Risk",
+        "Definition": "A sustainability-related event or condition that could negatively affect the company’s financial performance or stakeholder outcomes."
+      },
+      {
+        "Term": "Sustainability Opportunity",
+        "Definition": "Potential beneficial outcomes or competitive advantages that arise from addressing sustainability matters."
+      },
+      {
+        "Term": "Forward-Looking Information",
+        "Definition": "Planned strategies, targets, or projections about future sustainability performance, including risk or opportunity outlooks."
+      },
+      {
+        "Term": "Retrospective Information",
+        "Definition": "Historical data describing sustainability conditions, impacts, or performance during the reporting period."
+      },
+      {
+        "Term": "Metrics and Indicators",
+        "Definition": "Quantitative or qualitative measures used to report on sustainability performance outcomes."
+      },
+      {
+        "Term": "Reasonable Estimates",
+        "Definition": "Data approximations used when precise information is unavailable, provided that the methodology is transparent and logical."
+      }
+    ],
+    "Methodology_Definitions_Batch_3": [
+      {
+        "Term": "Short-Term Time Horizon",
+        "Definition": "A near-term period typically reflecting the next one to three years, relevant for operational planning and immediate risk responses."
+      },
+      {
+        "Term": "Medium-Term Time Horizon",
+        "Definition": "A future period spanning roughly three to ten years, used for strategic planning and transition risk evaluation."
+      },
+      {
+        "Term": "Long-Term Time Horizon",
+        "Definition": "A period extending beyond ten years, often aligned with climate scenarios, resilience assessments, and net-zero strategies."
+      },
+      {
+        "Term": "Performance Trajectory",
+        "Definition": "A modeled or projected pathway showing how a metric—such as emissions, water use, or energy intensity—changes over time."
+      },
+      {
+        "Term": "Predictive Indicator",
+        "Definition": "A metric that provides forward-looking insights into potential outcomes based on trends, assumptions, or modeled forecasts."
+      },
+      {
+        "Term": "Retrospective Indicator",
+        "Definition": "A metric reflecting past performance during the reporting period, based on measured or historical data."
+      },
+      {
+        "Term": "Resilience Metric",
+        "Definition": "A measure of the company’s capacity to absorb, adapt, or recover from disruptions under various stress scenarios."
+      },
+      {
+        "Term": "Stress Test",
+        "Definition": "An assessment that applies extreme or adverse conditions to evaluate the robustness of strategies, assets, or financial performance."
+      },
+      {
+        "Term": "Threshold Assumption",
+        "Definition": "A specific value or limit used to determine when a modeled scenario or risk outcome becomes significant."
+      },
+      {
+        "Term": "Boundary Condition",
+        "Definition": "A constraint or initial setting that defines the limits of a scenario, model, or calculation."
+      },
+      {
+        "Term": "Attribution Method",
+        "Definition": "A technique used to assign emissions, impacts, or risks to specific operations, activities, or value chain stages."
+      },
+      {
+        "Term": "Allocation Factor",
+        "Definition": "A percentage or rule used to distribute shared impacts or emissions across multiple products, sites, or activities."
+      },
+      {
+        "Term": "Interpolation",
+        "Definition": "A method of estimating values within the range of known data points."
+      },
+      {
+        "Term": "Extrapolation",
+        "Definition": "A method of estimating values beyond the range of known data points, often increasing uncertainty."
+      },
+      {
+        "Term": "Out-of-Boundary Impact",
+        "Definition": "An environmental or social effect linked to the company but occurring outside the defined reporting boundary."
+      },
+      {
+        "Term": "Counterfactual",
+        "Definition": "A hypothetical scenario used to estimate what would have occurred in the absence of a specific action or intervention."
+      },
+      {
+        "Term": "Confidence Interval",
+        "Definition": "A statistical range expressing the expected uncertainty or variation in modeled or estimated results."
+      },
+      {
+        "Term": "Significance Level",
+        "Definition": "A predefined criterion used to determine whether an impact, risk, or variation is large enough to warrant reporting."
+      },
+      {
+        "Term": "Methodological Limitation",
+        "Definition": "A known weakness or constraint that affects the accuracy or completeness of calculations, assumptions, or data used."
+      },
+      {
+        "Term": "Comparative Restatement",
+        "Definition": "Updating previously reported figures to align with revised methods, boundaries, or error corrections."
+      },
+      {
+        "Term": "Change in Methodology",
+        "Definition": "A modification to calculation methods, assumptions, or data sources that may influence comparability over time."
+      },
+      {
+        "Term": "Change in Boundary",
+        "Definition": "An adjustment to the set of activities, subsidiaries, or value chain segments included in the report due to mergers, divestments, or revisions."
+      },
+      {
+        "Term": "Assurance Evidence",
+        "Definition": "Supporting documents, calculations, or records used by auditors to verify the accuracy and completeness of sustainability information."
+      },
+      {
+        "Term": "Key Assumption Disclosure",
+        "Definition": "A required explanation of the most critical assumptions that materially influence estimates, forecasts, or scenario outcomes."
+      },
+      {
+        "Term": "Model Validation",
+        "Definition": "A process comparing model outputs to real-world data or accepted benchmarks to confirm reliability."
+      },
+      {
+        "Term": "Backcasting",
+        "Definition": "A planning approach that starts with a desired future state and works backward to identify required actions and milestones."
+      },
+      {
+        "Term": "Temporal Boundary",
+        "Definition": "The start and end dates defining the period for which sustainability data is reported or analyzed."
+      },
+      {
+        "Term": "Calibration Error",
+        "Definition": "A discrepancy arising when models or instruments are not properly adjusted to reflect known conditions or benchmarks."
+      },
+      {
+        "Term": "Scenario Divergence",
+        "Definition": "Differences between outcomes generated by alternative scenarios due to varying assumptions, pathways, or input parameters."
+      },
+      {
+        "Term": "Quality Assurance Process",
+        "Definition": "A structured set of checks designed to confirm that sustainability data is collected, processed, and reported accurately and consistently."
+      }
+    ],
+    "Methodology_Definitions_Batch_2": [
+      {
+        "Term": "Consolidated Reporting",
+        "Definition": "The process of combining sustainability information from subsidiaries, joint ventures, and controlled entities into a single organizational report."
+      },
+      {
+        "Term": "Vertical Consolidation",
+        "Definition": "Integration of data from different levels of the corporate structure, including group companies and subsidiaries."
+      },
+      {
+        "Term": "Horizontal Consolidation",
+        "Definition": "Aggregation of similar operational units or business segments across different regions or product lines."
+      },
+      {
+        "Term": "Boundary Consistency",
+        "Definition": "Ensuring that the organizational scope applied across different sustainability metrics remains stable unless transparently justified."
+      },
+      {
+        "Term": "Data Governance Framework",
+        "Definition": "A structured system defining roles, rules, and processes for managing sustainability data throughout its lifecycle."
+      },
+      {
+        "Term": "Master Data Record",
+        "Definition": "A central, authoritative source of key business information used consistently across reporting systems."
+      },
+      {
+        "Term": "Data Validation",
+        "Definition": "Procedures used to check the accuracy, completeness, and coherence of reported information."
+      },
+      {
+        "Term": "Data Reconciliation",
+        "Definition": "The process of aligning data from multiple sources to ensure consistency and resolve discrepancies."
+      },
+      {
+        "Term": "Indicator",
+        "Definition": "A quantitative or qualitative measure that provides insights into performance on a specific sustainability matter."
+      },
+      {
+        "Term": "Metric",
+        "Definition": "A numeric value that quantifies conditions or performance, often forming part of an indicator."
+      },
+      {
+        "Term": "Parameter",
+        "Definition": "An input value used within models, formulas, or calculations to determine outcomes."
+      },
+      {
+        "Term": "Proxy Indicator",
+        "Definition": "An indirect measure used to estimate performance when direct measurement is not feasible."
+      },
+      {
+        "Term": "Sensitivity Analysis",
+        "Definition": "An evaluation of how changes in key assumptions or input variables affect model results or scenario outcomes."
+      },
+      {
+        "Term": "Monte Carlo Simulation",
+        "Definition": "A probabilistic modelling technique that uses repeated random sampling to estimate uncertainty ranges."
+      },
+      {
+        "Term": "Likelihood Scale",
+        "Definition": "A structured rating system used to categorize the probability of a risk or event occurring."
+      },
+      {
+        "Term": "Severity Scale",
+        "Definition": "A standardized framework used to evaluate the seriousness of impacts, typically based on magnitude, scope, and reversibility."
+      },
+      {
+        "Term": "Risk Scoring Model",
+        "Definition": "A structured approach that combines probability and severity information to assign a risk rating."
+      },
+      {
+        "Term": "Material Impact Pathway",
+        "Definition": "The sequence of cause-and-effect steps through which a company’s activities lead to environmental or social impacts."
+      },
+      {
+        "Term": "Scenario Parameterization",
+        "Definition": "The selection and definition of input variables used to generate scenario outcomes or projections."
+      },
+      {
+        "Term": "Scenario Calibration",
+        "Definition": "The process of adjusting model inputs and assumptions to ensure alignment with recognized scientific or policy frameworks."
+      },
+      {
+        "Term": "Model Uncertainty",
+        "Definition": "Limitations arising from the structure, assumptions, or simplifications inherent in any analytical model."
+      },
+      {
+        "Term": "Data Uncertainty",
+        "Definition": "Variability or gaps in source information that can affect the confidence of reported figures."
+      },
+      {
+        "Term": "Assumption Sensitivity",
+        "Definition": "The degree to which results depend on key assumptions, often highlighted through alternative sensitivity runs."
+      },
+      {
+        "Term": "Temporal Consistency",
+        "Definition": "The use of stable time periods, definitions, and methods to ensure comparability across reporting cycles."
+      },
+      {
+        "Term": "Normalization Factor",
+        "Definition": "A variable used to scale or adjust results, such as revenue, production output, or number of full-time employees."
+      },
+      {
+        "Term": "Intensity Metric",
+        "Definition": "A performance measure expressed relative to another variable—such as emissions per unit output or energy per revenue."
+      },
+      {
+        "Term": "Benchmarking",
+        "Definition": "Comparing performance against industry peers, sector averages, scientific thresholds, or policy targets."
+      },
+      {
+        "Term": "Reference Scenario",
+        "Definition": "A baseline projection used as a point of comparison for evaluating alternative future pathways."
+      },
+      {
+        "Term": "Assumption Transparency",
+        "Definition": "The clear disclosure of significant assumptions, methodologies, and limitations to support interpretation of reported data."
+      },
+      {
+        "Term": "Outlier Analysis",
+        "Definition": "The examination of unusually high or low data values to determine whether they indicate errors, anomalies, or true variations."
+      }
+    ]
+  },
+  "SectionName": "ESRS E2 – Pollution",
+  "SectionCode": "E2",
+  "DisclosureDomain": "Overarching reporting principles",
+  "Content": [
+    {
+      "Topic": "1. Reporting Principles",
+      "Description": "Fundamental principles guiding how sustainability information must be prepared and presented.",
+      "Requirements": [
+        "Sustainability information must be relevant, faithful, comparable, verifiable, and understandable.",
+        "Disclosures must reflect the entity’s specific facts, circumstances, and material impacts.",
+        "Information must avoid generic statements and boilerplate content.",
+        "Forward-looking information must be based on reasonable assumptions.",
+        "Uncertainties or measurement limitations must be explained clearly."
+      ],
+      "KPISuggestions": [
+        "Data-quality rating or confidence level per disclosure.",
+        "Percentage of disclosures with external assurance.",
+        "Level of alignment with ESRS reporting principles."
+      ],
+      "RisksIfMissing": [
+        "Misleading or incomplete disclosures.",
+        "Regulatory penalties for misreporting.",
+        "Loss of credibility with investors and stakeholders."
+      ],
+      "OutputTemplate": "Sustainability information has been prepared according to principles of {{principles}}, ensuring clarity, relevance, and reliability."
+    },
+    {
+      "Topic": "2. Double Materiality",
+      "Description": "The core ESRS concept that requires assessment of both impact materiality and financial materiality.",
+      "Requirements": [
+        "Perform an impact materiality assessment considering positive and negative impacts on people and environment.",
+        "Perform a financial materiality assessment evaluating sustainability risks and opportunities affecting enterprise value.",
+        "Explain methodology used, including thresholds, scoring, and stakeholder input.",
+        "Document data sources, expert involvement, and decision logic.",
+        "Disclose material topics selected and reasons for exclusion of others."
+      ],
+      "DataRequired": [
+        "Impact materiality scores per topic.",
+        "Financial materiality scores per topic.",
+        "Stakeholder engagement data.",
+        "Risk & opportunity assessment results."
+      ],
+      "KPISuggestions": [
+        "Number of material topics identified.",
+        "Materiality re-assessment frequency.",
+        "Stakeholder engagement coverage (%)."
+      ],
+      "EvidenceExamples": [
+        "Materiality matrices.",
+        "Stakeholder engagement logs.",
+        "Scoring methodologies."
+      ],
+      "AuditorQuestions": [
+        "Were both dimensions of materiality applied?",
+        "Are scoring methods consistent and justified?",
+        "Did management participate in materiality decisions?",
+        "Were stakeholders adequately represented?"
+      ],
+      "RisksIfMissing": [
+        "Incomplete reporting of material impacts.",
+        "Financial misstatements from unrecognised risks.",
+        "Regulatory scrutiny under CSRD."
+      ],
+      "OutputTemplate": "Double materiality assessment identified {{material_topics}} based on impact and financial criteria using {{methodology}}."
+    },
+    {
+      "Topic": "3. Reporting Boundary & Value Chain",
+      "Description": "Defines the boundary for sustainability disclosures including upstream, downstream, and related entities.",
+      "Requirements": [
+        "Identify operations included in the reporting boundary (control, joint ventures, affiliates).",
+        "Include upstream and downstream value chain impacts where material.",
+        "Explain data collection challenges and estimation methods for value-chain data.",
+        "Describe value-chain mapping and prioritised hotspots."
+      ],
+      "DataRequired": [
+        "List of entities included/excluded from reporting boundary.",
+        "Value chain mapping documents.",
+        "Data source details (primary vs estimated)."
+      ],
+      "KPISuggestions": [
+        "Percentage of suppliers providing sustainability data.",
+        "Percentage of value chain mapped for material topics."
+      ],
+      "OutputTemplate": "The reporting boundary includes {{included_entities}}, with value-chain coverage extending to {{value_chain_scope}}."
+    },
+    {
+      "Topic": "4. Time Horizon & Forward-looking Information",
+      "Description": "ESRS requires entities to disclose short-, medium-, and long-term horizons.",
+      "Requirements": [
+        "Define short-, medium-, and long-term horizons clearly.",
+        "Use consistent horizons across strategy, risks, opportunities, and metrics.",
+        "Explain underlying assumptions for forward-looking information.",
+        "Document scenario analysis where applicable."
+      ],
+      "DataRequired": [
+        "Time horizon definitions.",
+        "Inputs used for forecasting.",
+        "Scenario assumptions (baseline, pessimistic, optimistic)."
+      ],
+      "KPISuggestions": [
+        "Consistency score of time horizons across disclosures.",
+        "Number of forward-looking metrics disclosed."
+      ],
+      "OutputTemplate": "The entity defines short-, medium-, and long-term horizons as {{definitions}}, used consistently across disclosures."
+    },
+    {
+      "Topic": "5. Estimates, Assumptions & Measurement Uncertainty",
+      "Description": "Entities must disclose significant assumptions and uncertainties affecting sustainability metrics.",
+      "Requirements": [
+        "Explain estimation techniques and assumptions used.",
+        "Describe limitations in data availability and measurement accuracy.",
+        "Disclose uncertainties affecting comparability or reliability.",
+        "Describe improvement plans to reduce uncertainty."
+      ],
+      "DataRequired": [
+        "Estimation methodologies.",
+        "Uncertainty analyses.",
+        "Primary and secondary data sources."
+      ],
+      "KPISuggestions": [
+        "Percentage of metrics affected by estimation.",
+        "Confidence rating for disclosed metrics."
+      ],
+      "OutputTemplate": "Disclosures rely on estimates for {{topics}}, with uncertainties arising from {{limitations}} and efforts underway to improve accuracy."
+    },
+    {
+      "Topic": "6. Connectivity of Information",
+      "Description": "ESRS requires sustainability disclosures to be linked to financial statements, strategy, governance, and risks.",
+      "Requirements": [
+        "Link environmental, social, and governance disclosures with financial performance where relevant.",
+        "Explain interactions among risks, opportunities, strategy, and KPIs.",
+        "Present integrated narrative connecting sustainability outcomes and financial impacts."
+      ],
+      "KPISuggestions": [
+        "Number of cross-referenced links between sustainability and financial sections.",
+        "Quality score of integrated reporting."
+      ],
+      "OutputTemplate": "Information has been connected across strategy, risks, governance, and financial disclosures through {{linkages}}."
+    },
+    {
+      "Topic": "7. Comparability, Verifiability & Consistency",
+      "Description": "ESRS requires disclosures to be consistent year-over-year and comparable across entities.",
+      "Requirements": [
+        "Explain any methodological changes.",
+        "Restate prior-year data where possible.",
+        "Describe internal controls ensuring data accuracy.",
+        "Use consistent metrics and units across periods."
+      ],
+      "KPISuggestions": [
+        "Percentage of data that is internally verified.",
+        "Number of methodological changes disclosed."
+      ],
+      "OutputTemplate": "Data has been prepared to ensure comparability and consistency through {{controls}} and methodological stability."
+    },
+    {
+      "Topic": "8. Presentation & Fair Disclosure",
+      "Description": "Information must be presented clearly, avoiding greenwashing or selective disclosure.",
+      "Requirements": [
+        "Avoid selective reporting; disclose both positive and negative outcomes.",
+        "Provide quantitative and qualitative information where relevant.",
+        "Disclose significant assumptions, uncertainties, and limitations.",
+        "Avoid promotional or biased language."
+      ],
+      "KPISuggestions": [
+        "Balance score for positive vs negative disclosures.",
+        "Number of disclosures with quantitative evidence."
+      ],
+      "OutputTemplate": "Disclosures are balanced and fair, covering both positive and negative results for {{topics}}."
+    },
+    {
+      "Topic": "9. Stakeholder Engagement",
+      "Description": "ESRS requires involvement of stakeholders in assessing materiality and impacts.",
+      "Requirements": [
+        "Identify relevant stakeholder groups.",
+        "Describe methods of engagement and feedback collection.",
+        "Explain how feedback influences decisions.",
+        "Describe integration of stakeholder input into materiality assessments."
+      ],
+      "KPISuggestions": [
+        "Stakeholder engagement coverage (%).",
+        "Number of structured engagement sessions."
+      ],
+      "OutputTemplate": "Stakeholders including {{stakeholder_groups}} were engaged using {{methods}}, influencing decisions on {{topics}}."
+    }
+  ],
+  "DisclosureRequirements": [
+    {
+      "DRCode": "S2-1",
+      "DRTitle": "Policies on Value Chain Workforce Protection",
+      "Description": "The entity shall describe policies that govern labour rights, working conditions, safety, and ethical treatment of workers in its value chain.",
+      "Requirements": [
+        "Describe policies addressing human rights, fair labour practices, and ethical treatment of workers across suppliers and contractors.",
+        "Explain alignment with national labour laws, ILO conventions, UNGPs, and international human rights standards.",
+        "Describe expectations communicated to suppliers regarding labour rights, wages, safety, and non-discrimination.",
+        "Explain how policies address high-risk value chain segments such as migrant labour, seasonal labour, and informal workers.",
+        "Describe governance roles responsible for value chain labour policy enforcement."
+      ],
+      "DataRequired": [
+        "Supplier code of conduct or labour rights policy.",
+        "Scope of policy coverage across suppliers.",
+        "Policy communication and training records.",
+        "Supplier onboarding requirements related to labour practices."
+      ],
+      "KPISuggestions": [
+        "Percentage of suppliers covered by labour rights policies.",
+        "Number of policy violations reported.",
+        "Percentage of suppliers trained on labour expectations."
+      ],
+      "EvidenceExamples": [
+        "Supplier Code of Conduct.",
+        "Supplier onboarding checklists.",
+        "Human rights policies.",
+        "Contract clauses with labour requirements."
+      ],
+      "AuditorQuestions": [
+        "Are labour rights requirements embedded in supplier contracts?",
+        "How are policies communicated to suppliers?",
+        "Are high-risk suppliers given deeper oversight?",
+        "Is there a formal governance body monitoring S2 performance?"
+      ],
+      "RisksIfMissing": [
+        "High risk of forced labour, child labour, or exploitation in the supply chain.",
+        "Regulatory penalties under supply chain due diligence laws.",
+        "Reputational damage and loss of customer trust."
+      ],
+      "OutputTemplate": "The entity enforces value chain labour rights through policies covering {{policy_areas}}, applicable across {{supplier_scope}}. Governance is handled by {{responsible_roles}}.",
+      "GRIMapping": [
+        "GRI 408-1",
+        "GRI 409-1"
+      ],
+      "SASBMapping": [
+        "Labour practice risks in supply chains"
+      ],
+      "BRSRMapping": [
+        "Principle 5"
+      ],
+      "SDGMapping": [
+        8,
+        10,
+        12
+      ],
+      "IndustryRelevance": "High supplier-dependency sectors"
+    },
+    {
+      "DRCode": "S2-2",
+      "DRTitle": "Processes for Identifying and Assessing Labour Impacts in the Value Chain",
+      "Description": "Entity shall disclose how it identifies, assesses, and prioritises labour-related risks and impacts in the value chain.",
+      "Requirements": [
+        "Describe supplier risk assessment methodology used to identify labour rights risks.",
+        "Explain criteria used to classify suppliers into high, medium, and low risk.",
+        "Describe geographical and sectoral labour risk hotspots.",
+        "Explain how assessments cover forced labour, child labour, unsafe working conditions, low wages, and discrimination.",
+        "Describe involvement of worker representatives or external organisations in assessments."
+      ],
+      "DataRequired": [
+        "Supplier risk scores.",
+        "Third-party assessment reports.",
+        "Labour rights audit data.",
+        "Country and sector risk indices (ILO, ITUC, etc.)."
+      ],
+      "KPISuggestions": [
+        "Percentage of suppliers assessed for labour risks.",
+        "Percentage of high-risk suppliers requiring corrective actions.",
+        "Number of sites undergoing independent labour audits."
+      ],
+      "EvidenceExamples": [
+        "Supply chain risk matrices.",
+        "Human rights impact assessments.",
+        "Third-party due diligence reports.",
+        "Supplier self-assessment questionnaires."
+      ],
+      "AuditorQuestions": [
+        "How is supplier risk determined?",
+        "Are assessments updated annually?",
+        "Do assessments include site visits?",
+        "Are worker interviews included in assessments?"
+      ],
+      "RisksIfMissing": [
+        "Hidden human rights violations in critical supply chain areas.",
+        "Inability to comply with EU due diligence regulations.",
+        "Missed red flags for severe social risks."
+      ],
+      "OutputTemplate": "The entity conducted labour risk assessments across {{ assessed_suppliers }} suppliers, identifying {{risk_categories}}. High-risk regions include {{regions}}.",
+      "GRIMapping": [
+        "GRI 414-1"
+      ],
+      "SASBMapping": [
+        "Supply chain social risk assessments"
+      ],
+      "BRSRMapping": [
+        "Principle 5"
+      ],
+      "SDGMapping": [
+        8,
+        12,
+        16
+      ],
+      "IndustryRelevance": "Manufacturing, Retail, Agriculture, Infrastructure"
+    },
+    {
+      "DRCode": "S2-3",
+      "DRTitle": "Managing Labour Risks Through Supplier Engagement",
+      "Description": "Entity shall disclose actions taken to prevent, mitigate, and remediate labour risks in the value chain.",
+      "Requirements": [
+        "Describe supplier engagement programs focused on labour rights improvement.",
+        "Describe capacity-building programs for suppliers (training, toolkits, compliance support).",
+        "Explain use of corrective action plans for non-compliant suppliers.",
+        "Describe escalation mechanisms up to contract termination.",
+        "Explain monitoring and follow-up procedures for continuous improvement."
+      ],
+      "DataRequired": [
+        "Corrective action plan (CAP) records.",
+        "Supplier training participation data.",
+        "Re-audit results.",
+        "Supplier improvement scores."
+      ],
+      "KPISuggestions": [
+        "Percentage of suppliers completing corrective action plans.",
+        "Number of suppliers trained on labour rights.",
+        "Average improvement in supplier audit scores."
+      ],
+      "EvidenceExamples": [
+        "CAP audit trails.",
+        "Training materials for suppliers.",
+        "Supplier performance improvement dashboards.",
+        "Contract clauses including labour remedies."
+      ],
+      "AuditorQuestions": [
+        "Are CAPs time-bound and monitored?",
+        "Do corrective actions result in measurable improvement?",
+        "Are non-compliant suppliers escalated appropriately?",
+        "How is supplier capability strengthened?"
+      ],
+      "RisksIfMissing": [
+        "Persistent labour violations by suppliers.",
+        "Audits failing without follow-up action.",
+        "Legal sanctions for ignoring non-compliance."
+      ],
+      "OutputTemplate": "Supplier engagement programs supported {{num_suppliers}} suppliers, with {{cap_completion}}% completing corrective actions. Capacity-building included {{engagement_activities}}.",
+      "GRIMapping": [
+        "GRI 414-2"
+      ],
+      "SASBMapping": [
+        "Supplier labour improvement programs"
+      ],
+      "BRSRMapping": [
+        "Principle 5"
+      ],
+      "SDGMapping": [
+        8,
+        12
+      ],
+      "IndustryRelevance": "All supplier-intensive industries"
+    },
+    {
+      "DRCode": "S2-4",
+      "DRTitle": "Grievance Mechanisms for Value Chain Workers",
+      "Description": "Entity shall disclose grievance mechanisms available to non-employee workers in its value chain.",
+      "Requirements": [
+        "Describe channels available for reporting labour concerns (hotlines, email, third-party platforms).",
+        "Explain accessibility of grievance mechanisms to contract workers, migrant workers, and outsourced staff.",
+        "Explain protections against retaliation for raising complaints.",
+        "Describe process for grievance investigation and resolution.",
+        "Report outcomes, categories, and trends of grievances."
+      ],
+      "DataRequired": [
+        "Number of grievances reported, resolved, and pending.",
+        "Categories of grievances (wages, safety, abuse, discrimination, harassment).",
+        "Resolution time and escalation steps.",
+        "Access details for grievance mechanism."
+      ],
+      "KPISuggestions": [
+        "Number of grievances reported per 100 value chain workers.",
+        "Percentage of grievances resolved in-time.",
+        "Average resolution timeframe (days)."
+      ],
+      "EvidenceExamples": [
+        "Grievance logs (redacted).",
+        "Grievance procedure documents.",
+        "Supplier communication records.",
+        "Training materials for grievance channels."
+      ],
+      "AuditorQuestions": [
+        "Are grievance mechanisms accessible to all contractor and supply chain labour?",
+        "How is confidentiality ensured?",
+        "Are workers made aware of grievance channels?",
+        "Are grievances analysed for systemic risks?"
+      ],
+      "RisksIfMissing": [
+        "Undetected labour exploitation.",
+        "Workers unable to safely report abuses.",
+        "Regulatory non-compliance under human rights due diligence laws."
+      ],
+      "OutputTemplate": "The entity recorded {{num_grievances}} grievances from value chain workers, with {{resolution_rate}}% resolved. Channels included {{channels}}.",
+      "GRIMapping": [
+        "GRI 2-25"
+      ],
+      "SASBMapping": [
+        "Social grievance mechanisms"
+      ],
+      "BRSRMapping": [
+        "Principle 5"
+      ],
+      "SDGMapping": [
+        8,
+        16
+      ],
+      "IndustryRelevance": "Manufacturing, Logistics, Agriculture"
+    },
+    {
+      "DRCode": "S2-5",
+      "DRTitle": "Value Chain Labour Conditions and Well-being",
+      "Description": "Entity shall describe its understanding of working conditions of value chain labour including wages, working hours, health and safety, and welfare conditions.",
+      "Requirements": [
+        "Assess wages paid by contractors or suppliers for fairness and compliance with living wage benchmarks.",
+        "Evaluate working hours, overtime policies, and rest period compliance.",
+        "Describe health & safety measures for contract and supply chain workers.",
+        "Report housing, sanitation, transportation, or dormitory conditions for migrant workers.",
+        "Explain protections for vulnerable worker groups (women, migrants, young workers)."
+      ],
+      "DataRequired": [
+        "Supplier wage benchmarking data.",
+        "Working hour logs and overtime records.",
+        "Safety incident logs for contractor workers.",
+        "Audit findings on site-level welfare standards."
+      ],
+      "KPISuggestions": [
+        "Living wage coverage in value chain (%).",
+        "Contractor LTIFR/TRIR rates.",
+        "Non-compliance rate in welfare audits.",
+        "Percentage of migrant workers covered by welfare programs."
+      ],
+      "EvidenceExamples": [
+        "Supplier wage records.",
+        "Dormitory inspection reports.",
+        "Safety audit reports.",
+        "Welfare assessment checklists."
+      ],
+      "AuditorQuestions": [
+        "Are contractors paid living wages?",
+        "Are migrant workers provided safe accommodation?",
+        "Are supplier safety performance metrics tracked?",
+        "How are working hours monitored?"
+      ],
+      "RisksIfMissing": [
+        "Severe labour rights violations (wages, safety, exploitation).",
+        "Human rights litigation risk.",
+        "Supply chain disruptions due to poor working conditions."
+      ],
+      "OutputTemplate": "Working conditions assessments showed {{conditions_summary}}, with wage compliance at {{wage_compliance_rate}}% and safety performance measured at {{safety_metrics}}.",
+      "GRIMapping": [
+        "GRI 403",
+        "GRI 408",
+        "GRI 409"
+      ],
+      "SASBMapping": [
+        "Contractor health & safety"
+      ],
+      "BRSRMapping": [
+        "Principle 5"
+      ],
+      "SDGMapping": [
+        8,
+        10
+      ],
+      "IndustryRelevance": "Manufacturing, Logistics, Construction, Agriculture"
+    },
+    {
+      "DRCode": "S2-6",
+      "DRTitle": "Human Rights Due Diligence Across the Value Chain",
+      "Description": "Entity shall disclose due diligence processes for preventing human rights violations in the value chain.",
+      "Requirements": [
+        "Describe due diligence processes aligned with UNGPs and OECD guidelines.",
+        "Explain supplier human rights screening during onboarding.",
+        "Describe processes for identifying modern slavery, trafficking, or bonded labour risks.",
+        "Explain use of third-party audits or certifications to validate compliance.",
+        "Describe escalation and remediation procedures."
+      ],
+      "DataRequired": [
+        "Human rights due diligence documentation.",
+        "Supplier screening results.",
+        "Findings from social compliance audits.",
+        "Records of remediation and follow-up."
+      ],
+      "KPISuggestions": [
+        "Percentage of new suppliers screened for human rights risks.",
+        "Number of modern slavery indicators identified.",
+        "Percentage of high-risk suppliers audited."
+      ],
+      "EvidenceExamples": [
+        "Third-party human rights audit reports.",
+        "Supplier onboarding screening tools.",
+        "IMPACT or SA8000 audit certificates.",
+        "Modern slavery assessment checklists."
+      ],
+      "AuditorQuestions": [
+        "Does the due diligence process align with UNGP expectations?",
+        "Are high-risk suppliers audited annually?",
+        "Is remediation monitored and time-bound?",
+        "Are suppliers removed for severe violations?"
+      ],
+      "RisksIfMissing": [
+        "Severe violations such as forced or child labour going undetected.",
+        "Regulatory risk under emerging EU due diligence laws.",
+        "Reputational harm and NGO scrutiny."
+      ],
+      "OutputTemplate": "Due diligence processes screened {{screened_suppliers}} suppliers, identifying {{risks}}. Remediation steps included {{remediation}}.",
+      "GRIMapping": [
+        "GRI 414-2"
+      ],
+      "SASBMapping": [
+        "Human rights due diligence"
+      ],
+      "BRSRMapping": [
+        "Principle 5"
+      ],
+      "SDGMapping": [
+        8,
+        16
+      ],
+      "IndustryRelevance": "All sectors with extended value chains"
+    },
+    {
+      "DRCode": "E5-1",
+      "DRTitle": "Policies on Resource Use and Circularity",
+      "Description": "The entity shall describe policies supporting sustainable resource use, circular economy adoption, waste minimization, recycling, and efficient material management.",
+      "Requirements": [
+        "Describe policies related to material efficiency, resource conservation, and waste prevention.",
+        "Explain alignment with circular economy principles (reduce, reuse, recycle, recover).",
+        "Describe how resource use policies are applied across the value chain.",
+        "Explain governance roles responsible for overseeing resource and waste management.",
+        "Describe compliance with waste regulations, hazardous waste rules, and packaging norms."
+      ],
+      "DataRequired": [
+        "List of policies related to resource use, waste, packaging, and circularity.",
+        "Coverage of policies across locations, product lines, and business units.",
+        "Details on policy updates, reviews, and approval authority.",
+        "Resource efficiency commitments or zero-waste goals."
+      ],
+      "KPISuggestions": [
+        "Percentage of operations covered by circular economy policies.",
+        "Number of policy updates or audits per year.",
+        "Percentage of workforce trained on circularity guidelines."
+      ],
+      "EvidenceExamples": [
+        "Circular economy or waste management policies.",
+        "Packaging reduction guidelines.",
+        "Hazardous waste compliance procedures.",
+        "Internal audit reports."
+      ],
+      "AuditorQuestions": [
+        "Are resource efficiency policies implemented across all sites?",
+        "How are circularity commitments monitored?",
+        "Are hazardous waste policies aligned with regulations?",
+        "Do policies address upstream and downstream resource impacts?"
+      ],
+      "RisksIfMissing": [
+        "Inefficient material use and cost escalation.",
+        "Regulatory non-compliance with waste laws.",
+        "Reputational risk for high waste generation."
+      ],
+      "OutputTemplate": "The entity maintains circular economy policies covering {{policy_scope}} with governance overseen by {{governance_roles}}. Policies focus on {{key_areas}} and apply across {{operations_coverage}}.",
+      "GRIMapping": [
+        "GRI 301-1",
+        "GRI 306-1"
+      ],
+      "SASBMapping": [
+        "Materials efficiency, waste management metrics"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        12
+      ],
+      "IndustryRelevance": "All, especially high-waste industries"
+    },
+    {
+      "DRCode": "E5-2",
+      "DRTitle": "Resource and Material Use",
+      "Description": "Entity shall report material consumption, focusing on critical raw materials, renewable vs non-renewable resources, and material circularity.",
+      "Requirements": [
+        "Report total material consumption by type (renewable, non-renewable).",
+        "Identify critical raw materials and scarcity risks.",
+        "Describe measures to reduce virgin material use.",
+        "Explain recycled content usage in products and processes.",
+        "Describe procurement practices supporting resource sustainability."
+      ],
+      "DataRequired": [
+        "Material input quantities (tonnes/year).",
+        "Breakdown of renewable vs non-renewable materials.",
+        "Percentage of recycled content in products.",
+        "Material intensity metrics per production unit.",
+        "Critical raw material usage and substitution possibilities."
+      ],
+      "KPISuggestions": [
+        "Total material consumption (tonnes).",
+        "Material intensity (kg per unit output).",
+        "Recycled content (%) in materials.",
+        "Reduction in virgin materials YOY (%)."
+      ],
+      "EvidenceExamples": [
+        "Material procurement logs.",
+        "Bill of materials (BOM).",
+        "Supplier sustainability declarations.",
+        "Material life cycle analysis reports."
+      ],
+      "AuditorQuestions": [
+        "Are material inputs measured consistently?",
+        "Does procurement consider resource scarcity risks?",
+        "What percentage of materials is sourced from recycled streams?",
+        "How is circularity integrated into product design?"
+      ],
+      "RisksIfMissing": [
+        "Supply chain disruptions due to resource scarcity.",
+        "High operational cost due to inefficient material use.",
+        "Regulatory or customer pressure for sustainable materials."
+      ],
+      "OutputTemplate": "Total material consumption was {{material_total}} tonnes, including {{recycled_content}}% recycled content. Key materials include {{materials}}.",
+      "GRIMapping": [
+        "GRI 301-1",
+        "GRI 301-2"
+      ],
+      "SASBMapping": [
+        "Material efficiency indicators"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        12
+      ],
+      "IndustryRelevance": "Manufacturing, FMCG, Construction"
+    },
+    {
+      "DRCode": "E5-3",
+      "DRTitle": "Circular Material Use and Closed-loop Systems",
+      "Description": "Entity shall disclose actions taken to increase material circularity, including reuse, recycling, remanufacturing, and circular business models.",
+      "Requirements": [
+        "Describe circular initiatives such as material recovery, closed-loop recycling, remanufacturing, and product take-back programs.",
+        "Report progress toward circularity goals.",
+        "Identify products or processes redesigned to enhance durability or recyclability.",
+        "Describe use of secondary materials or industrial by-products.",
+        "Explain partnerships supporting circular economy (suppliers, recyclers)."
+      ],
+      "DataRequired": [
+        "Volume of materials reused, recycled, or recovered.",
+        "Recyclability rates of products or packaging.",
+        "Circular redesign projects.",
+        "Material recovery rate metrics.",
+        "Take-back program participation and impact."
+      ],
+      "KPISuggestions": [
+        "Material circularity rate (%).",
+        "Percentage of products designed for recyclability.",
+        "Recycled or recovered material input (%)",
+        "Volume of materials diverted from landfill (tonnes)."
+      ],
+      "EvidenceExamples": [
+        "Circular process design documents.",
+        "Recycling logs and waste diversion reports.",
+        "Product life cycle assessments (LCA).",
+        "Partnership agreements with recyclers."
+      ],
+      "AuditorQuestions": [
+        "What percentage of materials are reused or recycled internally?",
+        "Are circular redesign efforts documented?",
+        "Do take-back programs cover all major products?",
+        "What is the recovery rate of secondary materials?"
+      ],
+      "RisksIfMissing": [
+        "High dependency on virgin materials.",
+        "Inability to meet regulatory expectations for circularity.",
+        "Increased waste disposal cost and environmental impact."
+      ],
+      "OutputTemplate": "Circular initiatives recovered {{recovered_tonnes}} tonnes of materials, with a circular material use rate of {{circular_rate}}%. Projects included {{initiatives}}.",
+      "GRIMapping": [
+        "GRI 306-4"
+      ],
+      "SASBMapping": [
+        "Circular system adoption metrics"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        12
+      ],
+      "IndustryRelevance": "Manufacturing, Electronics, Packaging, Automotive"
+    },
+    {
+      "DRCode": "E5-4",
+      "DRTitle": "Waste Generation and Management",
+      "Description": "Entity shall disclose waste generated, waste management methods, and alignment with circular economy principles.",
+      "Requirements": [
+        "Report total waste generated by type (hazardous, non-hazardous).",
+        "Break down waste by treatment method (recycled, reused, incinerated, landfilled).",
+        "Describe waste segregation, storage, and handling procedures.",
+        "Explain initiatives to prevent waste generation at source.",
+        "Describe hazardous waste compliance and tracking systems."
+      ],
+      "DataRequired": [
+        "Waste generation volume (tonnes/year).",
+        "Waste category classification.",
+        "Waste disposal or treatment pathway data.",
+        "Hazardous waste tracking records.",
+        "Waste minimization initiatives and results."
+      ],
+      "KPISuggestions": [
+        "Total waste generated (tonnes).",
+        "Hazardous waste as % of total waste.",
+        "Waste recycling rate (%).",
+        "Waste reduction YOY (%)."
+      ],
+      "EvidenceExamples": [
+        "Waste manifests and hazardous waste consignment forms.",
+        "Internal waste tracking dashboards.",
+        "Vendor waste disposal certificates.",
+        "Segregation procedure documents."
+      ],
+      "AuditorQuestions": [
+        "Is waste categorized correctly as per regulations?",
+        "How is hazardous waste tracked and stored?",
+        "Do recyclers/disposal vendors have compliance certificates?",
+        "Are waste minimization programs effective?"
+      ],
+      "RisksIfMissing": [
+        "Illegal disposal leading to environmental damage.",
+        "Fines for hazardous waste mismanagement.",
+        "High waste treatment cost and operational inefficiency."
+      ],
+      "OutputTemplate": "The entity generated {{waste_total}} tonnes of waste, of which {{hazardous_percent}}% was hazardous. Recycling accounted for {{recycling_rate}}% of total waste.",
+      "GRIMapping": [
+        "GRI 306-3",
+        "GRI 306-5"
+      ],
+      "SASBMapping": [
+        "Waste management performance indicators"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        12,
+        14
+      ],
+      "IndustryRelevance": "All"
+    },
+    {
+      "DRCode": "E5-5",
+      "DRTitle": "Packaging Material Use and Circularity",
+      "Description": "Entity shall disclose packaging material consumption, recyclability, and initiatives for reducing packaging impact.",
+      "Requirements": [
+        "Report consumption of packaging materials by type (plastic, paper, metal, glass).",
+        "Describe use of recyclable, compostable, and biodegradable packaging.",
+        "Report percentage of packaging designed for reuse or return.",
+        "Describe packaging reduction and optimization measures.",
+        "Explain compliance with national packaging waste management rules."
+      ],
+      "DataRequired": [
+        "Packaging material weights (tonnes/year).",
+        "Breakdown by material type.",
+        "Recyclability and compostability attributes.",
+        "Packaging return or reuse program data.",
+        "Packaging intensity metrics."
+      ],
+      "KPISuggestions": [
+        "Recyclable packaging (%).",
+        "Packaging intensity per unit product.",
+        "Share of sustainable packaging materials (%).",
+        "Packaging reduction YOY (%)."
+      ],
+      "EvidenceExamples": [
+        "Packaging design specs.",
+        "Material specifications and recycled content declarations.",
+        "Packaging LCA studies.",
+        "Extended Producer Responsibility (EPR) filings."
+      ],
+      "AuditorQuestions": [
+        "What proportion of packaging is recyclable?",
+        "Are packaging materials tracked accurately?",
+        "Does packaging comply with EPR obligations?",
+        "Has packaging been optimized for weight reduction?"
+      ],
+      "RisksIfMissing": [
+        "High environmental footprint due to packaging waste.",
+        "Non-compliance with packaging EPR obligations.",
+        "Customer pressure for sustainable packaging."
+      ],
+      "OutputTemplate": "Packaging consumption totaled {{packaging_total}} tonnes, with {{recyclable_pct}}% designed for recyclability. Packaging optimization initiatives included {{initiatives}}.",
+      "GRIMapping": [
+        "GRI 301-1",
+        "GRI 306-2"
+      ],
+      "SASBMapping": [
+        "Packaging sustainability metrics"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        12
+      ],
+      "IndustryRelevance": "FMCG, Retail, Pharmaceuticals"
+    },
+    {
+      "DRCode": "E5-6",
+      "DRTitle": "Circular Economy Strategy & Resource Efficiency",
+      "Description": "Entity shall describe its strategic approach for transitioning to circular economy models and improving resource efficiency.",
+      "Requirements": [
+        "Describe long-term resource efficiency and circular economy goals.",
+        "Explain product design strategies supporting durability, reparability, and recyclability.",
+        "Describe business model innovations (product-as-a-service, sharing, remanufacturing).",
+        "Report integration of circular principles across procurement and supplier engagements.",
+        "Describe role of technology, automation, and innovation in circularity."
+      ],
+      "DataRequired": [
+        "Circular economy targets and roadmaps.",
+        "Resource efficiency improvement data.",
+        "Design-for-circularity specifications.",
+        "Supplier circularity requirements.",
+        "Circular pilot project results."
+      ],
+      "KPISuggestions": [
+        "Resource productivity (output per unit of resource).",
+        "Circularity integration score (qualitative index).",
+        "Number of circular business models deployed.",
+        "Percentage of procurement with circular criteria."
+      ],
+      "EvidenceExamples": [
+        "Circular strategy documents.",
+        "Roadmaps and implementation plans.",
+        "Supplier audit tools for circular criteria.",
+        "Lifecycle assessment results."
+      ],
+      "AuditorQuestions": [
+        "Is there a long-term circularity roadmap?",
+        "Are products designed using circular principles?",
+        "Are suppliers evaluated based on circularity?",
+        "What metrics track resource efficiency?"
+      ],
+      "RisksIfMissing": [
+        "Competitive disadvantage from failing to adopt circular models.",
+        "Higher material costs and waste generation.",
+        "Regulatory risk in sectors undergoing circular transition."
+      ],
+      "OutputTemplate": "The entity’s circular economy strategy focuses on {{strategy_elements}}, supported by targets for {{targets}}. Circular business models include {{business_models}}.",
+      "GRIMapping": [
+        "GRI 301",
+        "GRI 306"
+      ],
+      "SASBMapping": [
+        "Resource productivity & circularity performance"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        12
+      ],
+      "IndustryRelevance": "Manufacturing, FMCG, Automotive, Electronics"
+    },
+    {
+      "DRCode": "E4-1",
+      "DRTitle": "Policies on Biodiversity and Ecosystems",
+      "Description": "The entity shall describe policies for protecting biodiversity and ecosystems throughout its operations and value chain.",
+      "Requirements": [
+        "Describe biodiversity and ecosystem protection policies across business operations.",
+        "Explain alignment with global frameworks (e.g., TNFD, CBD, national biodiversity action plans).",
+        "Describe governance, roles, and responsibilities for biodiversity management.",
+        "Address land conversion, habitat degradation, invasive species, and ecosystem restoration.",
+        "Describe policies for operating in protected or sensitive ecological zones."
+      ],
+      "DataRequired": [
+        "List of biodiversity or environmental protection policies.",
+        "Identification of high-risk ecological areas where the entity operates.",
+        "Coverage of biodiversity policies across sites and subsidiaries.",
+        "Biodiversity commitments (e.g., no net loss, nature-positive goals)."
+      ],
+      "KPISuggestions": [
+        "Percentage of operations covered by biodiversity policies.",
+        "Number of policy updates or audits annually.",
+        "Percentage of sites conducting biodiversity impact assessments."
+      ],
+      "EvidenceExamples": [
+        "Biodiversity policy documents.",
+        "Governance charters for environmental and ecosystem committees.",
+        "Environmental impact assessments (EIA/ESIA).",
+        "Protected area management guidelines."
+      ],
+      "AuditorQuestions": [
+        "Do biodiversity policies comply with local ecological regulations?",
+        "Are biodiversity responsibilities clearly assigned to management?",
+        "How frequently are policies reviewed?",
+        "Do policies explicitly address sensitive or protected areas?"
+      ],
+      "RisksIfMissing": [
+        "Land degradation and ecosystem harm.",
+        "Non-compliance with environmental approvals.",
+        "Reputational damage from biodiversity loss."
+      ],
+      "OutputTemplate": "The entity maintains biodiversity policies covering {{policy_elements}}, applicable across {{sites}}. Governance is assigned to {{roles}}, with updates conducted {{review_frequency}}.",
+      "GRIMapping": [
+        "GRI 304-1",
+        "GRI 304-3"
+      ],
+      "SASBMapping": [
+        "Ecological impacts across sectors"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        14,
+        15
+      ],
+      "IndustryRelevance": "Industries with land, water, and ecological footprints"
+    },
+    {
+      "DRCode": "E4-2",
+      "DRTitle": "Biodiversity and Ecosystem Dependencies",
+      "Description": "Entity shall disclose ecosystems and biodiversity that its operations depend upon.",
+      "Requirements": [
+        "Identify key ecosystem services the entity relies on (e.g., water supply, soil quality, pollination, climate regulation).",
+        "Describe geographic areas where dependencies are significant.",
+        "Explain how ecosystem degradation could affect business continuity.",
+        "Describe monitoring mechanisms for ecosystem dependency trends.",
+        "Assess vulnerability due to climate-related ecosystem changes."
+      ],
+      "DataRequired": [
+        "List of ecosystem services used.",
+        "Location-wise dependency assessments.",
+        "Potential impacts of ecosystem degradation on business.",
+        "Water, soil, and biodiversity dependency metrics."
+      ],
+      "KPISuggestions": [
+        "Number of critical ecosystem dependencies identified.",
+        "Percentage of operations dependent on natural ecosystems.",
+        "Number of sites conducting dependency assessments."
+      ],
+      "EvidenceExamples": [
+        "Ecosystem service studies.",
+        "TNFD-aligned dependency assessments.",
+        "Ecological resource maps.",
+        "Environmental baseline studies."
+      ],
+      "AuditorQuestions": [
+        "Which ecosystem services are most critical?",
+        "How are dependencies monitored?",
+        "Has the entity evaluated risks from ecosystem decline?",
+        "Are dependencies considered in strategic planning?"
+      ],
+      "RisksIfMissing": [
+        "Reduced business resilience due to ecosystem disruption.",
+        "Underestimation of nature-related operational risks."
+      ],
+      "OutputTemplate": "Key ecosystem dependencies include {{dependencies}}, located across {{regions}}. These ecosystems provide services such as {{services}}, essential for {{business_processes}}.",
+      "GRIMapping": [
+        "GRI 304-2"
+      ],
+      "SASBMapping": [
+        "Ecosystem dependency impacts"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        6,
+        14,
+        15
+      ],
+      "IndustryRelevance": "Agriculture, Mining, Real Estate, Energy, Manufacturing"
+    },
+    {
+      "DRCode": "E4-3",
+      "DRTitle": "Biodiversity and Ecosystem Impacts",
+      "Description": "Entity shall disclose actual and potential impacts on biodiversity and ecosystems resulting from its operations, products, or services.",
+      "Requirements": [
+        "Identify and assess impacts on species, habitats, and ecosystem health.",
+        "Describe impacts from land use, resources extraction, emissions, and effluents.",
+        "Report impacts on protected areas or key biodiversity areas (KBAs).",
+        "Describe impacts on ecosystem connectivity (fragmentation).",
+        "Report invasive species introduction or spread where relevant."
+      ],
+      "DataRequired": [
+        "Impact assessments (EIA/ESIA).",
+        "Maps showing land use change or habitat alteration.",
+        "Species or habitat-level impact data.",
+        "Impacts on protected or sensitive ecosystems.",
+        "Ecological monitoring results."
+      ],
+      "KPISuggestions": [
+        "Area of habitat disturbed or altered (ha).",
+        "Number of species/habitats affected.",
+        "Number of protected areas impacted.",
+        "Volume of discharges affecting ecosystems."
+      ],
+      "EvidenceExamples": [
+        "Biodiversity impact studies.",
+        "Satellite or GIS-based land use analyses.",
+        "Species monitoring reports.",
+        "Environmental incident logs."
+      ],
+      "AuditorQuestions": [
+        "Has the entity mapped its biodiversity footprint?",
+        "Are impacts assessed at project and site level?",
+        "Are sensitive ecosystems included in assessments?",
+        "Are cumulative impacts considered?"
+      ],
+      "RisksIfMissing": [
+        "Biodiversity loss due to uncontrolled activities.",
+        "Regulatory non-compliance for protected ecosystems.",
+        "Negative community and NGO scrutiny."
+      ],
+      "OutputTemplate": "Biodiversity impacts include {{impact_types}} affecting {{ecosystems}}. Habitat disturbance totaled {{area}} ha across {{sites}}.",
+      "GRIMapping": [
+        "GRI 304-2"
+      ],
+      "SASBMapping": [
+        "Land use & ecological impacts"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        14,
+        15
+      ],
+      "IndustryRelevance": "High-impact land and water sectors"
+    },
+    {
+      "DRCode": "E4-4",
+      "DRTitle": "Measures to Avoid, Minimize, Restore, and Compensate Impacts",
+      "Description": "Entity shall disclose actions taken using the mitigation hierarchy to manage biodiversity impacts: avoid, minimize, restore, and compensate.",
+      "Requirements": [
+        "Describe avoidance measures (e.g., site redesign, timing operations to avoid breeding seasons).",
+        "Provide minimization actions such as buffer zones, species protection plans.",
+        "Describe restoration initiatives (reforestation, soil rehabilitation).",
+        "Report biodiversity offsets, compensatory afforestation, or habitat banks where applicable.",
+        "Explain monitoring mechanisms for effectiveness of actions."
+      ],
+      "DataRequired": [
+        "List of mitigation actions implemented.",
+        "Area restored or rehabilitated (ha).",
+        "Species protection programs data.",
+        "Offset project documentation.",
+        "Monitoring results on restored ecosystems."
+      ],
+      "KPISuggestions": [
+        "Area restored or rehabilitated (ha).",
+        "Number of mitigation actions completed.",
+        "Biodiversity offset ratio achieved.",
+        "Survival rate of restored vegetation (%)."
+      ],
+      "EvidenceExamples": [
+        "Restoration project reports.",
+        "Offset project agreements.",
+        "Species protection plans.",
+        "Before-after ecosystem monitoring studies."
+      ],
+      "AuditorQuestions": [
+        "Are mitigation measures aligned with regulatory approvals?",
+        "How is success of restoration tracked?",
+        "Are offsets credible and additional?",
+        "Are cumulative impacts considered?"
+      ],
+      "RisksIfMissing": [
+        "Unmanaged ecological damage.",
+        "Failure to comply with environmental clearance requirements.",
+        "Loss of community and regulator trust."
+      ],
+      "OutputTemplate": "Mitigation actions included avoidance measures such as {{avoidance}}, minimization actions such as {{minimization}}, and restoration efforts covering {{restored_area}} ha.",
+      "GRIMapping": [
+        "GRI 304-3"
+      ],
+      "SASBMapping": [
+        "Ecological restoration & mitigation"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        14,
+        15
+      ],
+      "IndustryRelevance": "Mining, Construction, Energy, Infrastructure"
+    },
+    {
+      "DRCode": "E4-5",
+      "DRTitle": "Biodiversity Indicators and Metrics",
+      "Description": "Entity shall disclose bio-physical indicators related to biodiversity status and ecosystem health.",
+      "Requirements": [
+        "Report indicators such as species richness, habitat health, fragmentation indices.",
+        "Track conservation status of species impacted (IUCN categories).",
+        "Report ecological condition indicators: soil quality, water quality, vegetation cover.",
+        "Provide metrics relevant to site-level biodiversity action plans.",
+        "Report trends over time (improvement/decline)."
+      ],
+      "DataRequired": [
+        "Species and habitat monitoring data.",
+        "Vegetation cover or biomass estimates.",
+        "Soil and water quality indicators.",
+        "GIS/remote sensing biodiversity indicators.",
+        "Trend data for key biodiversity metrics."
+      ],
+      "KPISuggestions": [
+        "Number of species monitored.",
+        "Area of habitat with positive improvement (%).",
+        "Fragmentation index for sensitive ecosystems.",
+        "Species population change (%)."
+      ],
+      "EvidenceExamples": [
+        "Biodiversity monitoring reports.",
+        "Remote sensing GIS outputs.",
+        "Species inventories.",
+        "Ecological indicator datasets."
+      ],
+      "AuditorQuestions": [
+        "Are indicators consistent across years?",
+        "Is monitoring conducted by certified ecologists?",
+        "Are threatened species given special attention?",
+        "Are indicators disclosed transparently?"
+      ],
+      "RisksIfMissing": [
+        "Inadequate visibility into ecological damage.",
+        "Missed early warning signs of biodiversity decline."
+      ],
+      "OutputTemplate": "Key biodiversity indicators monitored include {{indicators}}, showing trends such as {{trends}} across {{sites}}.",
+      "GRIMapping": [
+        "GRI 304-4"
+      ],
+      "SASBMapping": [
+        "Ecological health monitoring"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        14,
+        15
+      ],
+      "IndustryRelevance": "High ecological footprint sectors"
+    },
+    {
+      "DRCode": "E4-6",
+      "DRTitle": "Operations in Protected and Sensitive Areas",
+      "Description": "Entity shall disclose sites operating in or near legally protected areas, key biodiversity areas, or ecologically sensitive zones.",
+      "Requirements": [
+        "List operational sites located in protected or sensitive areas.",
+        "Explain nature of ecosystems and conservation values present.",
+        "Report regulatory compliance and conservation measures.",
+        "Describe engagement with conservation authorities and local communities.",
+        "Explain site-specific environmental and biodiversity management plans."
+      ],
+      "DataRequired": [
+        "Geographical coordinates of sensitive-area operations.",
+        "List of protected area categories (IUCN, national parks, wetlands).",
+        "Site-level biodiversity management plans.",
+        "Monitoring data from conservation sites."
+      ],
+      "KPISuggestions": [
+        "Number of operational sites in protected areas.",
+        "Percentage of sites with biodiversity action plans.",
+        "Compliance record with protected-area regulations.",
+        "Number of stakeholder engagements."
+      ],
+      "EvidenceExamples": [
+        "Protected area maps.",
+        "Biodiversity action plans.",
+        "Regulatory compliance permits.",
+        "Ecological monitoring data."
+      ],
+      "AuditorQuestions": [
+        "What fraction of operations fall within or near protected areas?",
+        "Are biodiversity action plans in place at all relevant sites?",
+        "How are sensitive habitats monitored?",
+        "Are community and conservation stakeholders consulted?"
+      ],
+      "RisksIfMissing": [
+        "Severe legal penalties for harming protected ecosystems.",
+        "Loss of license to operate.",
+        "High reputational impact."
+      ],
+      "OutputTemplate": "The organization operates in {{num_sites}} protected or sensitive areas including {{locations}}. Biodiversity management plans include {{measures}}.",
+      "GRIMapping": [
+        "GRI 304-1"
+      ],
+      "SASBMapping": [
+        "Protected area operations"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        14,
+        15
+      ],
+      "IndustryRelevance": "Mining, Energy, Tourism, Agriculture, Real Estate"
+    },
+    {
+      "DRCode": "E3-1",
+      "DRTitle": "Policies on Water and Marine Resource Management",
+      "Description": "The entity shall describe its water management and marine protection policies, focusing on sustainable withdrawal, use, discharge, and protection of water-dependent ecosystems.",
+      "Requirements": [
+        "Describe policies for water conservation, water reuse, pollution prevention, and marine protection.",
+        "Explain alignment with local water regulations, watershed limits, and international guidelines.",
+        "Describe groundwater management, surface water usage, and rainwater harvesting policies.",
+        "Explain responsibilities and governance for managing water-related issues.",
+        "Describe policies for managing water-related impacts on marine ecosystems where applicable."
+      ],
+      "DataRequired": [
+        "List of water management and marine protection policies.",
+        "Operational coverage across geographic locations.",
+        "Methodology for site-level water risk assessment.",
+        "Legal compliance records for water use and discharge.",
+        "Water stewardship commitments (e.g., Alliance for Water Stewardship)."
+      ],
+      "KPISuggestions": [
+        "Percentage of sites with water management plans.",
+        "Water reuse rate (% of total water consumption).",
+        "Number of marine impact-related incidents.",
+        "Percentage of policies updated or reviewed annually."
+      ],
+      "EvidenceExamples": [
+        "Water policy documents.",
+        "Water stewardship commitments.",
+        "Internal compliance audit reports.",
+        "Marine ecosystem protection guidelines."
+      ],
+      "AuditorQuestions": [
+        "Are water policies aligned with watershed-specific risks?",
+        "Are all water-withdrawing facilities covered under policies?",
+        "Do policies include marine protection commitments?",
+        "How often are policies reviewed and updated?"
+      ],
+      "RisksIfMissing": [
+        "Unsustainable water withdrawal affecting operations.",
+        "Regulatory penalties for non-compliance.",
+        "Marine ecological damage or pollution liabilities.",
+        "Poor drought or water-stress resilience."
+      ],
+      "OutputTemplate": "The organization maintains water and marine management policies covering {{policy_areas}}. These policies apply to {{scope}} and are overseen by {{governance_roles}}.",
+      "GRIMapping": [
+        "GRI 303-1"
+      ],
+      "SASBMapping": [
+        "Water management metrics across sectors"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        6,
+        12,
+        14
+      ],
+      "IndustryRelevance": "All, especially water-intensive sectors"
+    },
+    {
+      "DRCode": "E3-2",
+      "DRTitle": "Water Withdrawal",
+      "Description": "The entity shall disclose total water withdrawal from all sources and specify how much is withdrawn from water-stressed areas.",
+      "Requirements": [
+        "Report total water withdrawal by source: surface water, groundwater, seawater, third-party water.",
+        "Disclose water withdrawn from water-stressed or over-exploited regions.",
+        "Explain methodologies for determining water stress levels.",
+        "Describe meters, monitoring systems, and controls used.",
+        "Explain how withdrawal impacts are managed responsibly."
+      ],
+      "DataRequired": [
+        "Water withdrawal volume by source (m³/year).",
+        "Water withdrawal by geographic location.",
+        "Water stress classification of each site.",
+        "Production or activity data for normalization.",
+        "Withdrawal permits and regulatory compliance data."
+      ],
+      "KPISuggestions": [
+        "Total water withdrawal (m³/year).",
+        "Water withdrawal intensity (m³ per unit output).",
+        "Percentage of water withdrawn from stressed areas.",
+        "Reduction in withdrawal YOY (%)."
+      ],
+      "EvidenceExamples": [
+        "Water meter logs.",
+        "Water abstraction permits.",
+        "Watershed-level stress maps (e.g., WRI Aqueduct).",
+        "Internal water consumption dashboards."
+      ],
+      "AuditorQuestions": [
+        "How is water withdrawal measured at each site?",
+        "What portion of withdrawal occurs in water-stressed regions?",
+        "Are permits for abstraction up-to-date?",
+        "Are alternatives to freshwater considered?"
+      ],
+      "RisksIfMissing": [
+        "Over-extraction leading to water shortages.",
+        "Regulatory actions or withdrawal suspensions.",
+        "Operational disruptions during droughts."
+      ],
+      "OutputTemplate": "Total water withdrawal for the year was {{withdrawal_volume}} m³, with {{stress_percentage}}% from water-stressed areas. Key sources included {{sources}}.",
+      "GRIMapping": [
+        "GRI 303-3"
+      ],
+      "SASBMapping": [
+        "Water management, withdrawal intensity"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        6,
+        12
+      ],
+      "IndustryRelevance": "Manufacturing, Energy, Agriculture, Healthcare"
+    },
+    {
+      "DRCode": "E3-3",
+      "DRTitle": "Water Discharge",
+      "Description": "Entity shall disclose volume and quality of discharged water, including untreated, treated, or reused water, with emphasis on pollution risks.",
+      "Requirements": [
+        "Report total water discharge by destination: surface water, groundwater, municipal systems, sea.",
+        "Describe pollutant concentration levels relative to permit limits.",
+        "Provide breakdown of treated vs untreated discharge.",
+        "Describe discharge monitoring methods and frequency.",
+        "Explain management of thermal discharge where relevant."
+      ],
+      "DataRequired": [
+        "Volume discharged by destination (m³/year).",
+        "Pollutant concentrations (BOD, COD, TSS, heavy metals).",
+        "ETP/STP performance data.",
+        "Compliance with effluent discharge standards.",
+        "Temperature data for thermal discharge."
+      ],
+      "KPISuggestions": [
+        "Treated discharge ratio (%).",
+        "Water discharge intensity (m³/unit output).",
+        "Number of exceedances of effluent parameters.",
+        "ETP efficiency (% removal rate)."
+      ],
+      "EvidenceExamples": [
+        "Effluent analysis test reports.",
+        "ETP/STP logbooks.",
+        "Regulatory compliance reports.",
+        "Marine impact studies (if discharged into sea)."
+      ],
+      "AuditorQuestions": [
+        "Are effluent parameters tested as per required frequency?",
+        "Do discharge points comply with permit conditions?",
+        "What steps are taken when exceedances occur?",
+        "Are thermal discharges monitored and controlled?"
+      ],
+      "RisksIfMissing": [
+        "Water pollution incidents.",
+        "Regulatory fines for exceeding discharge limits.",
+        "Long-term ecosystem damage."
+      ],
+      "OutputTemplate": "Total water discharge was {{discharge_volume}} m³. Of this, {{treated_percentage}}% was treated before release. Effluent quality complied with limits for {{parameters}}.",
+      "GRIMapping": [
+        "GRI 303-4"
+      ],
+      "SASBMapping": [
+        "Water discharge quality & compliance"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        6,
+        14
+      ],
+      "IndustryRelevance": "All sectors discharging wastewater"
+    },
+    {
+      "DRCode": "E3-4",
+      "DRTitle": "Water Consumption",
+      "Description": "Entity shall disclose water consumption including evaporated, retained, or integrated water that is not returned to the source.",
+      "Requirements": [
+        "Report total water consumption (withdrawal – discharge).",
+        "Identify processes with highest consumption (cooling, boilers, sanitation, irrigation).",
+        "Explain water efficiency initiatives.",
+        "Describe changes in consumption patterns YOY.",
+        "Explain consumption in water-scarce areas."
+      ],
+      "DataRequired": [
+        "Water consumption volumes.",
+        "Process-level consumption data.",
+        "Evaporation and retention estimates.",
+        "Reuse and recycling volumes.",
+        "Consumption in stressed areas."
+      ],
+      "KPISuggestions": [
+        "Water consumption intensity (m³ per unit output).",
+        "Percentage reduction in consumption YOY.",
+        "Water recycling rate (%).",
+        "Percentage of consumption in stressed areas."
+      ],
+      "EvidenceExamples": [
+        "Water balance calculations.",
+        "Utility bills and external water meters.",
+        "Process-level water usage records.",
+        "Reuse/recycling logs."
+      ],
+      "AuditorQuestions": [
+        "Is water consumption measured accurately?",
+        "Which processes consume the most water?",
+        "Does the entity track reuse and recycling?",
+        "Are improvements observed YOY?"
+      ],
+      "RisksIfMissing": [
+        "Inefficient water usage during stress periods.",
+        "Reduced operational resilience during droughts.",
+        "Poor water stewardship perception."
+      ],
+      "OutputTemplate": "Total water consumption was {{consumption}} m³, driven largely by {{major_processes}}. Recycling efforts resulted in {{recycling_rate}}% reuse.",
+      "GRIMapping": [
+        "GRI 303-5"
+      ],
+      "SASBMapping": [
+        "Water consumption intensity"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        6,
+        12
+      ],
+      "IndustryRelevance": "Water-intensive industries"
+    },
+    {
+      "DRCode": "E3-5",
+      "DRTitle": "Water Risk Management",
+      "Description": "Entity shall disclose exposure to water-related risks, including physical, regulatory, and reputational risks.",
+      "Requirements": [
+        "Identify water-related risks in value chain and operations.",
+        "Describe exposure to water scarcity, flooding, and ecosystem degradation.",
+        "Describe regulatory risks related to water permits and compliance.",
+        "Explain mitigation measures and contingency plans.",
+        "Report stakeholder concerns regarding water availability or quality."
+      ],
+      "DataRequired": [
+        "Risk assessments for water availability and quality.",
+        "Site-level water stress classification.",
+        "Past incidents of water-related disruptions.",
+        "Permits and regulatory compliance records.",
+        "Value chain exposure to water-intensive suppliers."
+      ],
+      "KPISuggestions": [
+        "Number of water-related risk incidents.",
+        "Percentage of operations in high-risk zones.",
+        "Water resilience score per facility.",
+        "Number of mitigation actions completed."
+      ],
+      "EvidenceExamples": [
+        "Water risk assessment reports.",
+        "Business continuity plans.",
+        "Watershed modelling studies.",
+        "Supplier risk evaluation documents."
+      ],
+      "AuditorQuestions": [
+        "Are water risk assessments updated yearly?",
+        "What facilities face highest water stress?",
+        "Are contingency plans in place?",
+        "Are suppliers screened for water risks?"
+      ],
+      "RisksIfMissing": [
+        "Operational disruptions due to shortages.",
+        "Legal compliance issues.",
+        "Reputational harm in water-stressed communities."
+      ],
+      "OutputTemplate": "Water-related risks include {{risks}}, affecting {{sites}}. Mitigation measures include {{mitigation_actions}}.",
+      "GRIMapping": [
+        "GRI 303-1",
+        "GRI 303-3"
+      ],
+      "SASBMapping": [
+        "Water risk exposure metrics"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        6,
+        13,
+        14
+      ],
+      "IndustryRelevance": "All"
+    },
+    {
+      "DRCode": "E3-6",
+      "DRTitle": "Marine Resource Impacts",
+      "Description": "Entity shall disclose impacts on marine resources including water discharges, marine biodiversity, and coastal ecosystem health.",
+      "Requirements": [
+        "Identify operations with potential marine ecosystem impact.",
+        "Describe marine discharge pathways (cooling water, treated effluent, brine).",
+        "Report impacts on marine biodiversity and water quality.",
+        "Describe steps taken to protect coastal ecosystems.",
+        "Explain monitoring and mitigation systems for marine protection."
+      ],
+      "DataRequired": [
+        "Marine discharge volumes and composition.",
+        "Biodiversity impact studies (where relevant).",
+        "Tracking of marine ecological indicators.",
+        "Chemical, thermal, and saline discharge data.",
+        "Monitoring system installation and results."
+      ],
+      "KPISuggestions": [
+        "Volume of marine discharge (m³/year).",
+        "Marine pollutant concentrations.",
+        "Number of marine biodiversity incidents.",
+        "Number of sites with marine conservation programs."
+      ],
+      "EvidenceExamples": [
+        "Marine impact studies.",
+        "Sea water discharge analysis reports.",
+        "Ecological monitoring system logs.",
+        "Coastal conservation activity records."
+      ],
+      "AuditorQuestions": [
+        "Do operations fall within or near sensitive marine zones?",
+        "Does monitoring show any exceedances?",
+        "Are marine organisms impacted by discharge?",
+        "Are coastal protection mechanisms implemented?"
+      ],
+      "RisksIfMissing": [
+        "Damage to local marine life.",
+        "Regulatory penalties for marine pollution.",
+        "Loss of social license to operate in coastal areas."
+      ],
+      "OutputTemplate": "Marine impacts arise from {{discharge_types}} near {{locations}}. Monitoring indicates {{findings}}. Mitigation includes {{mitigation_measures}}.",
+      "GRIMapping": [
+        "GRI 303-2"
+      ],
+      "SASBMapping": [
+        "Marine discharge & coastal impacts"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        14,
+        15
+      ],
+      "IndustryRelevance": "Coastal, marine, and water-discharge industries"
+    },
+    {
+      "DRCode": "E2-1",
+      "DRTitle": "Policies to Prevent and Control Pollution",
+      "Description": "The entity shall describe its policies relating to pollution prevention, control, and reduction across air, water, soil, and hazardous substances.",
+      "Requirements": [
+        "Describe organisational policies for pollution prevention and environmental protection.",
+        "Explain how pollution-related policies align with legal requirements and standards.",
+        "Describe coverage of policies across sites, processes, and activities.",
+        "Explain roles, responsibilities, and monitoring mechanisms for policy implementation.",
+        "Describe how hazardous substances, emissions, and pollutants are managed safely."
+      ],
+      "DataRequired": [
+        "List of pollution-related policies in force.",
+        "Scope and coverage of each policy across operations.",
+        "Compliance assurance or audits performed.",
+        "Specific pollutant management guidelines (air, water, chemicals)."
+      ],
+      "KPISuggestions": [
+        "Percentage of operations covered by pollution control policies.",
+        "Number of policy updates or reviews during the year.",
+        "Number of employees trained on pollution-related procedures."
+      ],
+      "EvidenceExamples": [
+        "Pollution control and hazardous materials policies.",
+        "Environmental protection guidelines.",
+        "Compliance and internal audit reports.",
+        "Training records on pollution management."
+      ],
+      "AuditorQuestions": [
+        "How are pollution policies communicated to employees?",
+        "Are policies aligned with local and international pollution standards?",
+        "Are regular audits conducted for compliance with pollution policies?",
+        "Who is accountable for pollution control?"
+      ],
+      "RisksIfMissing": [
+        "Environmental violations and regulatory penalties.",
+        "Air and water contamination incidents.",
+        "Reputational risk and loss of community trust."
+      ],
+      "OutputTemplate": "The organization maintains policies on {{policy_areas}} covering {{scope}}. Pollution control responsibilities are assigned to {{roles}} and monitored through {{monitoring_methods}}.",
+      "GRIMapping": [
+        "GRI 306: Waste",
+        "GRI 403",
+        "GRI 305-7"
+      ],
+      "SASBMapping": [
+        "Air emissions, effluents & waste metrics"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        3,
+        6,
+        12,
+        14,
+        15
+      ],
+      "IndustryRelevance": "Moderate to High Impact Industries"
+    },
+    {
+      "DRCode": "E2-2",
+      "DRTitle": "Pollution Prevention and Control Targets",
+      "Description": "The entity shall disclose pollution reduction or prevention targets, including timelines and monitoring mechanisms.",
+      "Requirements": [
+        "State targets for reducing pollutants (air, water, soil).",
+        "Provide baseline year and target year.",
+        "Describe scope and boundaries of targets.",
+        "Explain whether targets are mandatory (legal) or voluntary.",
+        "Describe monitoring methods and progress tracking."
+      ],
+      "DataRequired": [
+        "Pollutant-specific baseline values.",
+        "Target values and timelines.",
+        "Progress data for the reporting year.",
+        "Monitoring system information."
+      ],
+      "KPISuggestions": [
+        "Pollution reduction (%) compared to baseline.",
+        "Share of pollutants within compliance limits (%).",
+        "Number of targets achieved or on track."
+      ],
+      "EvidenceExamples": [
+        "Pollution reduction plans.",
+        "Baseline pollution studies or environmental impact assessments.",
+        "Monitoring dashboards.",
+        "Progress review reports."
+      ],
+      "AuditorQuestions": [
+        "Are pollution reduction targets realistic and measurable?",
+        "How frequently is progress monitored?",
+        "Are targets aligned with environmental permits or regulations?",
+        "Are deviations explained clearly?"
+      ],
+      "RisksIfMissing": [
+        "Failure to meet regulatory thresholds.",
+        "Poor environmental performance transparency.",
+        "Weak alignment between strategy and pollution management needs."
+      ],
+      "OutputTemplate": "The organization has established targets to reduce {{pollutant_types}} by {{reduction_percentage}}% by {{target_year}}, relative to a {{baseline_year}} baseline.",
+      "GRIMapping": [
+        "GRI 305-7",
+        "GRI 306-1"
+      ],
+      "SASBMapping": [
+        "Air emissions & waste targets"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        3,
+        6,
+        12,
+        13,
+        14
+      ],
+      "IndustryRelevance": "All"
+    },
+    {
+      "DRCode": "E2-3",
+      "DRTitle": "Pollutant Emissions to Air",
+      "Description": "Entity shall disclose emissions of key air pollutants resulting from operations, including nitrogen oxides, sulphur oxides, particulate matter, volatile organic compounds (VOCs), and hazardous air pollutants.",
+      "Requirements": [
+        "Report emissions for NOx, SOx, PM, VOCs, and specific hazardous pollutants.",
+        "Describe sources of emissions (e.g., boilers, generators, industrial processes).",
+        "Explain measurement or estimation methods used.",
+        "Provide emission intensity metrics relevant to operations.",
+        "Disclose pollutant control technologies installed (e.g., scrubbers, filters)."
+      ],
+      "DataRequired": [
+        "Actual emissions (tonnes/year or mg/Nm³).",
+        "Emission intensity values.",
+        "Activity or production data for intensity calculation.",
+        "Emission control equipment performance.",
+        "Source-wise breakdown of air pollutants."
+      ],
+      "KPISuggestions": [
+        "NOx, SOx, PM, VOC emissions (t/year).",
+        "Air pollution intensity (t pollutant per unit output).",
+        "Share of emissions within regulatory limits (%).",
+        "Filter/scrubber efficiency (%)."
+      ],
+      "EvidenceExamples": [
+        "Stack monitoring reports.",
+        "Continuous Emissions Monitoring System (CEMS) data.",
+        "Air quality modelling studies.",
+        "Environmental audit reports."
+      ],
+      "AuditorQuestions": [
+        "Are emissions measured through approved methods?",
+        "Are monitoring instruments calibrated regularly?",
+        "Are any sites non-compliant with air quality limits?",
+        "Do pollutant sources have appropriate control systems?"
+      ],
+      "RisksIfMissing": [
+        "Regulatory violations for air quality exceedances.",
+        "Fines, sanctions, or shutdown of operations.",
+        "Health impacts on employees and surrounding communities."
+      ],
+      "OutputTemplate": "Air pollutant emissions totalled {{total_emissions}} tonnes, including NOx {{nox}}, SOx {{sox}}, PM {{pm}}, and VOCs {{vocs}}. Emissions were monitored using {{methods}} and controlled through {{control_tech}}.",
+      "GRIMapping": [
+        "GRI 305-7"
+      ],
+      "SASBMapping": [
+        "Air emissions metrics across sectors"
+      ],
+      "BRSRMapping": [
+        "Principle 6 – Environmental Indicators"
+      ],
+      "SDGMapping": [
+        3,
+        11,
+        13
+      ],
+      "IndustryRelevance": "High-emission sectors"
+    },
+    {
+      "DRCode": "E2-4",
+      "DRTitle": "Discharges to Water and Soil",
+      "Description": "Entity shall report pollutants discharged into surface water, groundwater, soil, and marine environments.",
+      "Requirements": [
+        "Disclose pollutant concentrations in wastewater discharge.",
+        "Describe sources of water pollutants (industrial effluents, cooling water, process wastewater).",
+        "Report compliance status with discharge permits.",
+        "Describe soil contamination sources (leakages, spills, storage failures).",
+        "Describe pollutant treatment processes (ETP/STP)."
+      ],
+      "DataRequired": [
+        "Effluent volume (m³/year).",
+        "Pollutant concentration: BOD, COD, TSS, heavy metals, oils/grease.",
+        "Permit limits and compliance records.",
+        "Soil or groundwater contamination monitoring data.",
+        "Treatment plant efficiency data."
+      ],
+      "KPISuggestions": [
+        "Effluent pollutant concentration (mg/L).",
+        "Share of treated vs untreated discharge (%).",
+        "Number of water quality exceedances.",
+        "Pollution load reduction (%) year-on-year."
+      ],
+      "EvidenceExamples": [
+        "Wastewater test reports.",
+        "ETP/STP monitoring logs.",
+        "Soil and groundwater analysis reports.",
+        "Environmental compliance permits."
+      ],
+      "AuditorQuestions": [
+        "Are effluent parameters frequently monitored?",
+        "How are exceedances handled?",
+        "Are soil or groundwater tests conducted regularly?",
+        "Is waste storage compliant with environmental guidelines?"
+      ],
+      "RisksIfMissing": [
+        "Water pollution incidents or contamination.",
+        "Legal penalties for non-compliant effluent discharge.",
+        "Long-term soil degradation or groundwater damage."
+      ],
+      "OutputTemplate": "The entity discharged {{effluent_volume}} m³ of treated effluent with pollutant concentrations of BOD {{bod}}, COD {{cod}}, TSS {{tss}}. Compliance with prescribed limits was {{compliance_status}}.",
+      "GRIMapping": [
+        "GRI 303-2",
+        "GRI 303-3"
+      ],
+      "SASBMapping": [
+        "Water discharges & quality indicators"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        6,
+        14,
+        15
+      ],
+      "IndustryRelevance": "Water-intensive industries"
+    },
+    {
+      "DRCode": "E2-5",
+      "DRTitle": "Ozone-Depleting Substances (ODS) and Chemicals of Concern",
+      "Description": "Entity shall report production, consumption, or emissions of ozone-depleting substances and chemicals of high concern.",
+      "Requirements": [
+        "Disclose use, storage, or emissions of ODS such as CFCs, HCFCs.",
+        "Disclose inventory of hazardous chemicals and safety precautions.",
+        "Identify chemicals of high concern used in processes or products.",
+        "Explain control measures to prevent releases of harmful chemicals.",
+        "Report phase-out plans if applicable."
+      ],
+      "DataRequired": [
+        "ODS inventory and usage quantities.",
+        "Chemical categories and hazard classifications.",
+        "Records of leaks or accidental releases.",
+        "Safety equipment details (leak detection, containment).",
+        "ODS phase-out timelines."
+      ],
+      "KPISuggestions": [
+        "ODS consumption (kg/year).",
+        "Number of chemical spill incidents.",
+        "Percentage of ODS eliminated from operations.",
+        "Hazardous chemical inventory accuracy (%)."
+      ],
+      "EvidenceExamples": [
+        "ODS tracking logs.",
+        "Chemical inventory registers.",
+        "MSDS/SDS documents.",
+        "Leak inspection and maintenance records."
+      ],
+      "AuditorQuestions": [
+        "Are ODS systems regularly inspected?",
+        "How are chemical hazards communicated to employees?",
+        "Do the facilities have emergency response plans?",
+        "Is chemical storage compliant with regulations?"
+      ],
+      "RisksIfMissing": [
+        "Environmental hazard from ODS leakage.",
+        "Chemical spills and health impacts.",
+        "Regulatory breaches."
+      ],
+      "OutputTemplate": "The entity used {{ods_quantity}} kg of ODS and maintains an inventory of {{chemical_types}} chemicals of concern. Control measures include {{measures}}.",
+      "GRIMapping": [
+        "GRI 306-3"
+      ],
+      "SASBMapping": [
+        "Chemical management metrics"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        3,
+        12
+      ],
+      "IndustryRelevance": "Manufacturing, HVAC, Industrial Processing"
+    },
+    {
+      "DRCode": "E2-6",
+      "DRTitle": "Accidental Releases and Spills",
+      "Description": "Entity shall report incidents of accidental pollution, including spills, leakages, or unplanned releases of pollutants.",
+      "Requirements": [
+        "Report number and volume of accidental releases.",
+        "Describe substances involved and locations impacted.",
+        "Explain root cause and corrective actions taken.",
+        "Describe emergency response systems and preparedness.",
+        "Explain long-term remediation or monitoring steps."
+      ],
+      "DataRequired": [
+        "Spill quantity and type of pollutant.",
+        "Area or ecosystem affected.",
+        "Containment and recovery data.",
+        "Corrective actions and timelines.",
+        "Preventive measures implemented."
+      ],
+      "KPISuggestions": [
+        "Number of spill incidents.",
+        "Volume of accidental releases (litres/tonnes).",
+        "Time taken to contain spills.",
+        "Percentage of spills fully remediated."
+      ],
+      "EvidenceExamples": [
+        "Incident logs.",
+        "Root cause analysis reports.",
+        "Environmental remediation documents.",
+        "Regulator notifications."
+      ],
+      "AuditorQuestions": [
+        "How often do spill incidents occur?",
+        "Are emergency response teams trained?",
+        "How does the entity ensure prevention of repeat incidents?",
+        "Are impacted communities informed?"
+      ],
+      "RisksIfMissing": [
+        "Environmental damage from spills.",
+        "High regulatory and cleanup costs.",
+        "Reputational harm and loss of stakeholder trust."
+      ],
+      "OutputTemplate": "During the reporting year, the entity recorded {{num_spills}} spill incidents totalling {{volume_spilled}} litres. Substances involved included {{substances}}. Corrective actions included {{corrective_actions}}.",
+      "GRIMapping": [
+        "GRI 306-3"
+      ],
+      "SASBMapping": [
+        "Environmental incidents metrics"
+      ],
+      "BRSRMapping": [
+        "Principle 6"
+      ],
+      "SDGMapping": [
+        6,
+        14,
+        15
+      ],
+      "IndustryRelevance": "All"
+    }
+  ],
+  "ESRS_Annex_II": {
+    "G1_Application_Requirements": {
+      "G1_AR_Batch_3": [
+        {
+          "Requirement": "Organizational Ethical Culture Assessment",
+          "Guidance": "Companies must periodically assess organizational culture, ethical climate, and employee perceptions of integrity and fairness."
+        },
+        {
+          "Requirement": "Tone at the Top and Leadership Commitment",
+          "Guidance": "Executives and board members must demonstrate ethical behavior and commitment to responsible business conduct."
+        },
+        {
+          "Requirement": "ESG-Linked Executive Remuneration",
+          "Guidance": "Companies must disclose how ESG metrics influence executive pay and ensure these metrics are measurable and independently verifiable."
+        },
+        {
+          "Requirement": "Governance of Sustainability Data Quality",
+          "Guidance": "Companies must maintain internal controls to ensure reliability, accuracy, and audit-readiness of sustainability data."
+        },
+        {
+          "Requirement": "Cyber Governance and Incident Escalation",
+          "Guidance": "Companies must maintain governance processes for cybersecurity oversight, breach escalation, and board-level reporting."
+        },
+        {
+          "Requirement": "Board Oversight of AI and Digital Transformation",
+          "Guidance": "Boards must oversee AI risk management, data ethics, algorithmic fairness, and digital transformation strategies."
+        },
+        {
+          "Requirement": "Human Rights Governance Framework",
+          "Guidance": "Companies must maintain governance systems to manage human rights risks, escalate findings, and monitor remediation progress."
+        },
+        {
+          "Requirement": "Anti-Retaliation Monitoring System",
+          "Guidance": "Companies must track potential retaliation cases linked to whistleblowing, complaints, or ethical reporting."
+        },
+        {
+          "Requirement": "Governance of Lobbying Conflicts",
+          "Guidance": "Companies must prevent conflicts of interest in lobbying and ensure alignment between public policy positions and corporate sustainability commitments."
+        },
+        {
+          "Requirement": "Governance of Political Donations",
+          "Guidance": "Companies must maintain controls to prevent improper political donations and ensure all contributions comply with law and internal policies."
+        },
+        {
+          "Requirement": "Enterprise Risk Management Integration",
+          "Guidance": "Sustainability, climate, human rights, and governance risks must be integrated into enterprise risk management frameworks."
+        },
+        {
+          "Requirement": "Board Audit Committee Responsibilities",
+          "Guidance": "Audit committees must oversee sustainability data assurance, compliance investigations, and financial-integrity risks."
+        },
+        {
+          "Requirement": "Data Ethics and Responsible Technology Governance",
+          "Guidance": "Companies must oversee digital ethics including fairness, transparency, privacy, and user rights."
+        },
+        {
+          "Requirement": "Senior Leadership Accountability for Conduct",
+          "Guidance": "Companies must ensure accountability mechanisms for ethical misconduct by senior leaders or board members."
+        },
+        {
+          "Requirement": "Governance of High-Risk Transactions",
+          "Guidance": "Companies must maintain controls for high-risk transactions involving intermediaries, complex structures, or opaque ownership."
+        },
+        {
+          "Requirement": "Governance of Confidential Information",
+          "Guidance": "Companies must maintain systems to protect confidential information including employee data, consumer data, and trade secrets."
+        },
+        {
+          "Requirement": "Transparency in Non-Financial Incentives",
+          "Guidance": "Companies must disclose non-financial incentives offered to employees and partners that may influence conduct."
+        },
+        {
+          "Requirement": "Governance of Business Continuity",
+          "Guidance": "Companies must maintain governance systems for continuity planning covering ESG-related disruptions."
+        },
+        {
+          "Requirement": "Ethical Procurement Governance",
+          "Guidance": "Procurement teams must follow integrity protocols including conflict disclosures, corruption risk assessments, and fair competition."
+        },
+        {
+          "Requirement": "Responsible Board Nomination Process",
+          "Guidance": "Nomination processes must be transparent, competency-based, and include sustainability-related skill requirements."
+        },
+        {
+          "Requirement": "Stakeholder Engagement in Governance",
+          "Guidance": "Companies must disclose how stakeholders are involved in governance decisions, especially on ethics and sustainability matters."
+        },
+        {
+          "Requirement": "Integrity Performance Indicators",
+          "Guidance": "Companies must track KPIs such as number of misconduct cases, investigation timelines, whistleblowing usage, and ethical training completion."
+        },
+        {
+          "Requirement": "Board-Level Sustainability Competency Disclosure",
+          "Guidance": "Companies must disclose training and competency-building initiatives for board members on sustainability issues."
+        },
+        {
+          "Requirement": "Governance of Outsourcing and Delegated Activities",
+          "Guidance": "Companies must maintain oversight of outsourced functions ensuring ethical compliance and governance integrity."
+        },
+        {
+          "Requirement": "Internal Reporting and Escalation Channels",
+          "Guidance": "Companies must maintain multiple reporting channels to escalate governance and integrity concerns."
+        },
+        {
+          "Requirement": "Governance of Joint Ventures",
+          "Guidance": "Companies must ensure governance frameworks in joint ventures align with ethics, integrity, and sustainability standards."
+        },
+        {
+          "Requirement": "Data Retention Governance",
+          "Guidance": "Companies must maintain governance controls for retention, archiving, deletion, and lifecycle management of sensitive data."
+        },
+        {
+          "Requirement": "Supplier and Partner Governance Alignment",
+          "Guidance": "Companies must ensure business partners adopt equivalent governance and integrity standards."
+        },
+        {
+          "Requirement": "Governance of Anti-Fraud Systems",
+          "Guidance": "Companies must maintain governance structures overseeing fraud detection, investigations, and remediation."
+        },
+        {
+          "Requirement": "Integrity Crisis Scenario Testing",
+          "Guidance": "Companies must conduct periodic simulations of ethical crises to evaluate governance preparedness."
+        },
+        {
+          "Requirement": "Misconduct Case Disclosure Framework",
+          "Guidance": "Companies must disclose categories of misconduct, resolution mechanisms, and corrective actions without compromising confidentiality."
+        },
+        {
+          "Requirement": "Ethics Committee Oversight",
+          "Guidance": "Companies should maintain an ethics committee overseeing integrity risks, whistleblower cases, and policy effectiveness."
+        },
+        {
+          "Requirement": "Governance Data Assurance Preparation",
+          "Guidance": "Companies must ensure governance-related disclosures are prepared for external CSRD assurance."
+        },
+        {
+          "Requirement": "Cross-Border Governance Compliance",
+          "Guidance": "Companies must ensure governance systems comply with local regulations across jurisdictions of operation."
+        },
+        {
+          "Requirement": "AI Audit Trail Governance",
+          "Guidance": "Companies must maintain audit trails for AI systems documenting data sources, decisions, testing, and risk mitigation."
+        },
+        {
+          "Requirement": "Ethical Leadership Development Programs",
+          "Guidance": "Companies must provide leadership development focused on ethical decision-making, compliance, and responsible governance."
+        },
+        {
+          "Requirement": "Integrated Governance Dashboard",
+          "Guidance": "Companies must maintain a consolidated integrity and governance dashboard covering KPIs, risks, and incident trends."
+        },
+        {
+          "Requirement": "CSRD Assurance Controls for Governance Systems",
+          "Guidance": "All governance processes, policies, and data must be documented in a format suitable for CSRD assurance."
+        }
+      ]
+    },
+    "S1_Application_Requirements": {
+      "S1_AR_Batch_3": [
+        {
+          "Requirement": "Occupational Disease Modelling",
+          "Guidance": "Companies must evaluate risks of occupational diseases based on exposure types, duration, health surveillance results, and sectoral benchmarks."
+        },
+        {
+          "Requirement": "High-Risk Job Exposure Profiles",
+          "Guidance": "Roles with elevated exposure to chemicals, noise, physical strain, ergonomic stress, or biological hazards must be identified and monitored."
+        },
+        {
+          "Requirement": "Ergonomic Risk Assessment",
+          "Guidance": "Companies must conduct ergonomic assessments for workstation design, repetitive motion, manual lifting, and musculoskeletal strain."
+        },
+        {
+          "Requirement": "Violence and Harassment Prevention Systems",
+          "Guidance": "Companies must disclose systems to prevent and address violence, harassment, bullying, and intimidation, including reporting channels."
+        },
+        {
+          "Requirement": "Workplace Incident Root Cause Analysis",
+          "Guidance": "All major incidents must undergo structured root-cause analysis, identifying systemic failures and improvement measures."
+        },
+        {
+          "Requirement": "Emergency Preparedness and Response",
+          "Guidance": "Companies must maintain workforce-level emergency systems covering evacuation, first aid, drills, and incident escalation protocols."
+        },
+        {
+          "Requirement": "Just Transition Planning",
+          "Guidance": "Workforce transition plans must consider the impacts of climate and digital transitions on jobs, skills, and employment stability."
+        },
+        {
+          "Requirement": "Automation and AI Workforce Impact Assessment",
+          "Guidance": "Companies must assess how automation and AI adoption affect job roles, redundancies, upskilling needs, and ethical considerations."
+        },
+        {
+          "Requirement": "Digitalisation Skills Transition",
+          "Guidance": "Companies must provide targeted digital skills training to ensure workforce readiness for emerging technologies."
+        },
+        {
+          "Requirement": "Climate Transition Workforce Impact Analysis",
+          "Guidance": "Companies must evaluate how climate mitigation strategies affect job roles, skill needs, and potential displacement."
+        },
+        {
+          "Requirement": "Social Protection Coverage",
+          "Guidance": "Companies must disclose the proportion of workers covered by social protection systems such as health insurance, pension, and unemployment support."
+        },
+        {
+          "Requirement": "Fair Wage Adequacy Assessment",
+          "Guidance": "Companies must evaluate whether wages are sufficient to meet basic needs in each region of operation, referencing local wage benchmarks."
+        },
+        {
+          "Requirement": "Migrant Worker Protection",
+          "Guidance": "Companies must disclose measures ensuring non-discrimination, protection from exploitation, and fair working conditions for migrant workers."
+        },
+        {
+          "Requirement": "Workers in Precarious Employment",
+          "Guidance": "Companies must identify workers in insecure, temporary, or gig-type roles and disclose measures to reduce insecurity."
+        },
+        {
+          "Requirement": "Reintegration After Restructuring",
+          "Guidance": "Reintegration programs must support redeployment, retraining, or alternative employment pathways after restructuring or downsizing."
+        },
+        {
+          "Requirement": "Inclusivity in Health and Safety",
+          "Guidance": "Companies must ensure OHS processes consider gender differences, disability inclusion, and vulnerable worker groups."
+        },
+        {
+          "Requirement": "Grievance Mechanism Accessibility",
+          "Guidance": "Mechanisms must be accessible in multiple languages, formats, and communication channels, ensuring employees feel safe to report issues."
+        },
+        {
+          "Requirement": "Human Rights Training for Workforce",
+          "Guidance": "Companies must provide training covering labour rights, ethical conduct, anti-discrimination, and respect for dignity at work."
+        },
+        {
+          "Requirement": "Workforce Human Rights Impact Assessment",
+          "Guidance": "Companies must conduct HRIA for workforce-related risks such as coercion, discrimination, or unsafe working conditions."
+        },
+        {
+          "Requirement": "Workforce Vulnerability Analysis",
+          "Guidance": "Companies must identify vulnerable workforce groups such as young workers, elderly workers, pregnant workers, and temporary staff."
+        },
+        {
+          "Requirement": "Diversity in Leadership",
+          "Guidance": "Companies must disclose demographic diversity across leadership levels and actions to improve representation."
+        },
+        {
+          "Requirement": "Internal Mobility and Redeployment",
+          "Guidance": "Companies must disclose internal mobility systems that allow employees to transition between roles through training or certification."
+        },
+        {
+          "Requirement": "Workforce Climate and Culture Indicators",
+          "Guidance": "Companies must track indicators such as trust in leadership, fairness, respect, and workplace culture health."
+        },
+        {
+          "Requirement": "Occupational Exposure Limit Compliance",
+          "Guidance": "Companies must disclose compliance with exposure limits for chemicals, physical agents, and other regulated hazards."
+        },
+        {
+          "Requirement": "Incident Correction Effectiveness",
+          "Guidance": "Companies must evaluate whether corrective actions implemented after incidents effectively prevent recurrence."
+        },
+        {
+          "Requirement": "Worker Consultation in Decision-Making",
+          "Guidance": "Companies must disclose how workers participate in decision-making processes affecting working conditions and health & safety."
+        },
+        {
+          "Requirement": "Workforce Data Governance Controls",
+          "Guidance": "Companies must maintain strong internal controls to ensure workforce data accuracy, traceability, and audit readiness."
+        },
+        {
+          "Requirement": "Third-Party Verification of Workforce Data",
+          "Guidance": "Where material, companies must obtain independent verification for critical workforce indicators such as OHS metrics or pay equity."
+        },
+        {
+          "Requirement": "Alignment with International Labour Standards",
+          "Guidance": "Companies must align workforce policies with ILO conventions, OECD guidelines, and UN Guiding Principles where relevant."
+        },
+        {
+          "Requirement": "CSRD Workforce Assurance Preparedness",
+          "Guidance": "Companies must prepare all workforce disclosures for assurance with clear definitions, assumptions, data sources, and documentation."
+        }
+      ]
+    },
+    "E4_Application_Requirements": {
+      "E4_AR_Batch_3": [
+        {
+          "Requirement": "Genetic Diversity Assessment",
+          "Guidance": "Companies must assess whether activities affect the genetic diversity of species important to ecosystems, agriculture, or local communities."
+        },
+        {
+          "Requirement": "Soil Biodiversity DNA Indicators",
+          "Guidance": "Companies must consider the use of soil DNA or eDNA analysis to assess microbial communities, invertebrates, and overall soil biodiversity."
+        },
+        {
+          "Requirement": "Invasive Species Pathway Analysis",
+          "Guidance": "Companies must identify pathways through which invasive species could be introduced or spread and disclose control actions."
+        },
+        {
+          "Requirement": "Invasive Species Eradication and Control Plans",
+          "Guidance": "Where invasive species are present, companies must implement eradication or control plans aligned with ecological best practices."
+        },
+        {
+          "Requirement": "Species Translocation Risk Assessment",
+          "Guidance": "Any translocation, relocation, or rescue of species must be evaluated for ecological suitability, long-term viability, and unintended impacts."
+        },
+        {
+          "Requirement": "Species Viability Analysis",
+          "Guidance": "Where high-risk species are affected, companies must assess future viability under different disturbance or conservation scenarios."
+        },
+        {
+          "Requirement": "Ecological Compensation Banking",
+          "Guidance": "Companies may use recognized biodiversity banking schemes where compensation credits represent measured ecological improvements."
+        },
+        {
+          "Requirement": "Offset Equivalence Modelling",
+          "Guidance": "When offsets are used, equivalence modelling must demonstrate that ecological values lost are fully compensated by gains elsewhere."
+        },
+        {
+          "Requirement": "Landscape Conservation Partnerships",
+          "Guidance": "Companies must participate in conservation initiatives that address ecosystem-wide issues beyond their operational footprint."
+        },
+        {
+          "Requirement": "Cross-Boundary Ecosystem Impact",
+          "Guidance": "Companies must assess impacts on ecosystems that cross national or regional boundaries, especially migratory routes and river systems."
+        },
+        {
+          "Requirement": "Biodiversity Opportunity Mapping",
+          "Guidance": "Companies must map areas where restoration or protection efforts would produce the highest ecological benefits."
+        },
+        {
+          "Requirement": "Ecological Sensitivity Modelling",
+          "Guidance": "Models must be used to identify ecologically sensitive zones based on species distribution, habitat quality, and ecological function."
+        },
+        {
+          "Requirement": "Cumulative Habitat Pressure",
+          "Guidance": "Companies must assess cumulative pressure on habitats where multiple stressors (pollution, land use, climate impacts) overlap."
+        },
+        {
+          "Requirement": "Climate-Biodiversity Interaction Analysis",
+          "Guidance": "Companies must disclose interactions between biodiversity risks and climate impacts, such as habitat loss due to temperature or rainfall changes."
+        },
+        {
+          "Requirement": "Biodiversity KPIs",
+          "Guidance": "Key performance indicators must include metrics such as habitat condition, species abundance, restoration progress, or ecological connectivity."
+        },
+        {
+          "Requirement": "Ecological Restoration Monitoring",
+          "Guidance": "Restoration projects must include long-term monitoring using consistent indicators, remote sensing, and community input where relevant."
+        },
+        {
+          "Requirement": "Functional Ecosystem Resilience",
+          "Guidance": "Companies must evaluate the resilience of ecosystems to disturbances such as floods, fires, land degradation, or pollution."
+        },
+        {
+          "Requirement": "Ecosystem Service Recovery Potential",
+          "Guidance": "Companies must assess whether damaged ecosystem services can recover naturally or require intervention."
+        },
+        {
+          "Requirement": "Ecological Uncertainty Assessment",
+          "Guidance": "Uncertainties in biodiversity assessments must be disclosed, including sampling limitations, model assumptions, and incomplete data."
+        },
+        {
+          "Requirement": "Species Monitoring Using eDNA",
+          "Guidance": "Where applicable, eDNA (environmental DNA) must be used to detect cryptic or difficult-to-survey species."
+        },
+        {
+          "Requirement": "Biodiversity Governance Structure",
+          "Guidance": "Companies must disclose governance arrangements overseeing biodiversity performance, including board oversight and management responsibilities."
+        },
+        {
+          "Requirement": "Internal Controls for Biodiversity Data",
+          "Guidance": "Companies must maintain internal controls ensuring accuracy, traceability, and audit readiness of biodiversity data."
+        },
+        {
+          "Requirement": "Nature-Positive Investment Logic",
+          "Guidance": "Investments must be prioritized based on ecological return, contribution to ecosystem integrity, and alignment with nature-positive strategies."
+        },
+        {
+          "Requirement": "Ecological Performance Thresholds",
+          "Guidance": "Companies must identify critical ecological thresholds beyond which ecosystems may face irreversible degradation."
+        },
+        {
+          "Requirement": "Genetically Modified Organism (GMO) Risk",
+          "Guidance": "Where applicable, companies must evaluate ecological risks associated with genetically modified organisms in agriculture or research."
+        },
+        {
+          "Requirement": "Ecological Impact from Air and Water Pollution",
+          "Guidance": "Companies must link pollution from operations to ecological impacts such as acidification, eutrophication, or habitat degradation."
+        },
+        {
+          "Requirement": "Biodiversity-Related Stakeholder Engagement",
+          "Guidance": "Companies must engage with conservation experts, indigenous communities, and local stakeholders when undertaking biodiversity actions."
+        },
+        {
+          "Requirement": "Ecological Data Integration",
+          "Guidance": "Biodiversity assessments must integrate field surveys, remote sensing, species records, and community knowledge into a harmonized dataset."
+        },
+        {
+          "Requirement": "Biodiversity Restoration Cost-Benefit Analysis",
+          "Guidance": "Companies must evaluate ecological and financial benefits when selecting restoration or conservation interventions."
+        },
+        {
+          "Requirement": "Auditability of Biodiversity Metrics",
+          "Guidance": "All biodiversity KPIs, restoration results, modelling inputs, and ecological datasets must be retained to enable CSRD assurance."
+        }
+      ]
+    }
+  }
+}
